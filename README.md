@@ -1,11 +1,13 @@
-# jsjby_2024
-2024年计算机保研招生通知，包含导师招生信息
+# 2024年计算机保研招生通知
 
 **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
 **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
 
 **小红书主页：**  &nbsp; [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
+
+**计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
+
 
 
 
