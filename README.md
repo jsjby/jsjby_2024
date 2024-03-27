@@ -8,5 +8,8 @@
 **小红书主页：**  &nbsp; [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
 
 
+
+[截止：3.31] [中国科学院自动化研究所2024年“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s/Evv3MK3WR2SIlyN1AMQE7w)
+
 [截止：4.10] [2024年清华大学统计学研究中心优秀大学生统计与数据科学交流会（优秀大学生夏令营）活动](http://www.stat.tsinghua.edu.cn/hot-news/【夏令营】2024年优秀大学生统计与数据科学交流会/)
 
