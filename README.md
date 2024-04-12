@@ -15,13 +15,21 @@
 
 [截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
 
+[截止：暂无] [浙江大学良渚实验室2024年度优秀大学生夏令营招募](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1444)
+
+[截止：7.9] [复旦大学管理学院2025级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/_cBEVWI968GqESxxpsicQA)
+
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
 
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
 
 [截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
+[截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
+
 [截止：6.3] [北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=105)
+
+[截止：6.1] [昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
 [截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
