@@ -15,6 +15,8 @@
 
 [截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
 
+[截止：暂无] [中国科学技术大学量子物理与量子信息研究部2024年招生通知](https://quantum.ustc.edu.cn/web/node/762)
+
 [截止：暂无] [浙江大学良渚实验室2024年度优秀大学生夏令营招募](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1444)
 
 [截止：7.9] [复旦大学管理学院2025级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/_cBEVWI968GqESxxpsicQA)
@@ -29,13 +31,15 @@
 
 [截止：6.3] [北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=105)
 
-[截止：6.1] [昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
+[截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
 [截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
 [截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)
 
 [截止：5.5] [南京大学计算机科学与技术系2024年本科生开放日报名通知](https://mp.weixin.qq.com/s/3ZdByvmeqqxgxNjAC5SiVA)
+
+[截止：4.24] [北京大学统计科学中心2024年夏令营材料提交延期至4月24日](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
 
 [截止：4.30] [香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
 
@@ -44,8 +48,6 @@
 [截止：4.17] [中国科学院数学与系统科学研究院关于2025级推荐免试研究生选拔工作的通知](http://www.amss.ac.cn/yjsjy/zxxx/202403/t20240327_6966567.html)
 
 [截止：4.15] [上海交通大学密西根学院2024年“科研见习项目”报名](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)
-
-[截止：4.15] [北京大学统计科学中心2024年夏令营开放申请](https://mp.weixin.qq.com/s/owpMEt93TrW-6cbdY7SoqA)
 
 ~~[截止：4.10] [2024年清华大学统计学研究中心优秀大学生统计与数据科学交流会（优秀大学生夏令营）活动](https://mp.weixin.qq.com/s/T5SDsJbZOQsp6LqYQS0tGA)~~
 
