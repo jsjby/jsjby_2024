@@ -15,7 +15,9 @@
 
 [截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
 
-[截止：暂无] [中国科学技术大学量子物理与量子信息研究部2024年招生通知](https://quantum.ustc.edu.cn/web/node/762)
+[截止：暂无] [上海交通大学人工智能与微结构实验室招收2024-2025年AI for Science 方向硕士生和博士生（免考试）](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
+
+[截止：暂无] [中国人民大学高瓴人工智能学院AI-Engine实验室招生](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
 [截止：暂无] [浙江大学良渚实验室2024年度优秀大学生夏令营招募](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1444)
 
