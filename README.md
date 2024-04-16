@@ -49,7 +49,7 @@
 
 [截止：4.17] [中国科学院数学与系统科学研究院关于2025级推荐免试研究生选拔工作的通知](http://www.amss.ac.cn/yjsjy/zxxx/202403/t20240327_6966567.html)
 
-[截止：4.15] [上海交通大学密西根学院2024年“科研见习项目”报名](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)
+~~[截止：4.15] [上海交通大学密西根学院2024年“科研见习项目”报名](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
 
 ~~[截止：4.10] [2024年清华大学统计学研究中心优秀大学生统计与数据科学交流会（优秀大学生夏令营）活动](https://mp.weixin.qq.com/s/T5SDsJbZOQsp6LqYQS0tGA)~~
 
