@@ -11,7 +11,7 @@
 
 :muscle: 大家帮忙点个赞，觉得有用的话，分享给身边的同学哈！ 
 
-
+[截止：暂无] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
 [截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
 
@@ -29,7 +29,11 @@
 
 [截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
+[截止：6.15] [北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
+
 [截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
+
+[截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
 
 [截止：6.3] [北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=105)
 
