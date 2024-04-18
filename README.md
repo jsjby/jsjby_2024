@@ -13,9 +13,13 @@
 
 [截止：暂无] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
+[截止：暂无] [哈尔滨工业大学（深圳）计算机科学与技术学院陈科海教授课题组面向2025级硕士/博士研究生招生中](https://faculty.hitsz.edu.cn/chenkehai)
+
 [截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
 
 [截止：暂无] [上海交通大学人工智能与微结构实验室招收2024-2025年AI for Science 方向硕士生和博士生（免考试）](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
+
+[截止：暂无] [上海交通大学人工智能学院张林峰课题组招收2025届硕士于博士研究生](http://www.zhanglinfeng.tech/)
 
 [截止：暂无] [中国人民大学高瓴人工智能学院AI-Engine实验室招生](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
@@ -30,6 +34,8 @@
 [截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
+
+[截止：6.15] [清华大学神经调控国家工程研究中心 暑期夏令营活动通知](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
 
 [截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
 
@@ -51,7 +57,7 @@
 
 [截止：4.20] [南京大学LAMDA招收 2025年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)
 
-[截止：4.17] [中国科学院数学与系统科学研究院关于2025级推荐免试研究生选拔工作的通知](http://www.amss.ac.cn/yjsjy/zxxx/202403/t20240327_6966567.html)
+~~[截止：4.17] [中国科学院数学与系统科学研究院关于2025级推荐免试研究生选拔工作的通知](http://www.amss.ac.cn/yjsjy/zxxx/202403/t20240327_6966567.html)~~
 
 ~~[截止：4.15] [上海交通大学密西根学院2024年“科研见习项目”报名](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
 
