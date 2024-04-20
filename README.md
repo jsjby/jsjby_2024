@@ -61,7 +61,7 @@
 
 [截止：4.30] [香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
 
-[截止：4.20] [南京大学LAMDA招收 2025年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)
+~~[截止：4.20] [南京大学LAMDA招收 2025年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)~~
 
 ~~[截止：4.17] [中国科学院数学与系统科学研究院关于2025级推荐免试研究生选拔工作的通知](http://www.amss.ac.cn/yjsjy/zxxx/202403/t20240327_6966567.html)~~
 
