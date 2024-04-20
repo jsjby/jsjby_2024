@@ -13,6 +13,8 @@
 
 [截止：暂无] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
+[截止：暂无] [北京大学定量生物学中心2024年优秀大学生夏令营即将启动](https://cqb.pku.edu.cn/info/1064/2751.htm)
+
 [截止：暂无] [哈尔滨工业大学（深圳）计算机科学与技术学院陈科海教授课题组面向2025级硕士/博士研究生招生中](https://faculty.hitsz.edu.cn/chenkehai)
 
 [截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
@@ -31,11 +33,15 @@
 
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
 
+[截止：6.20] [电子科技大学基础与前沿研究院2024年第九届“基础与前沿科学” 全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
+
 [截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
 [截止：6.15] [清华大学神经调控国家工程研究中心 暑期夏令营活动通知](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
+
+[截止：6.14] [香港中文大学工程学院系统工程与工程管理系（SEEM）将举办2024年博士生夏令营](https://phd-workshop.se.cuhk.edu.hk/#about)
 
 [截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
 
