@@ -19,8 +19,6 @@
 
 [截止：暂无] [浙江大学良渚实验室2024年度优秀大学生夏令营招募](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1444)
 
-[截止：7.9] [复旦大学管理学院2025级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/_cBEVWI968GqESxxpsicQA)
-
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
 
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
@@ -74,12 +72,11 @@
 
 [截止：暂无] [中国人民大学高瓴人工智能学院AI-Engine实验室招生](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
-[截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)
+[截止：7.9] [复旦大学管理学院2025级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/_cBEVWI968GqESxxpsicQA)
 
 [截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
-
-
+[截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)
 
 
 
