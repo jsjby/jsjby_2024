@@ -11,19 +11,11 @@
 
 :muscle: 大家帮忙点个赞，觉得有用的话，分享给身边的同学哈！ 
 
+## 夏令营链接
+
 [截止：暂无] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
 [截止：暂无] [北京大学定量生物学中心2024年优秀大学生夏令营即将启动](https://cqb.pku.edu.cn/info/1064/2751.htm)
-
-[截止：暂无] [哈尔滨工业大学（深圳）计算机科学与技术学院陈科海教授课题组面向2025级硕士/博士研究生招生中](https://faculty.hitsz.edu.cn/chenkehai)
-
-[截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
-
-[截止：暂无] [上海交通大学人工智能与微结构实验室招收2024-2025年AI for Science 方向硕士生和博士生（免考试）](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
-
-[截止：暂无] [上海交通大学人工智能学院张林峰课题组招收2025届硕士于博士研究生](http://www.zhanglinfeng.tech/)
-
-[截止：暂无] [中国人民大学高瓴人工智能学院AI-Engine实验室招生](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
 [截止：暂无] [浙江大学良渚实验室2024年度优秀大学生夏令营招募](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1444)
 
@@ -34,8 +26,6 @@
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
 
 [截止：6.20] [电子科技大学基础与前沿研究院2024年第九届“基础与前沿科学” 全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
-
-[截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
@@ -52,8 +42,6 @@
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
 [截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
-
-[截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)
 
 [截止：5.5] [南京大学计算机科学与技术系2024年本科生开放日报名通知](https://mp.weixin.qq.com/s/3ZdByvmeqqxgxNjAC5SiVA)
 
@@ -72,6 +60,23 @@
 ~~[截止：3.31] [中国科学院自动化研究所2024年“人工智能菁英班”项目申报通知](https://mp.weixin.qq.com/s/Evv3MK3WR2SIlyN1AMQE7w)~~
 
 
+
+## 导师课题组或实验室招生
+
+
+[截止：暂无] [哈尔滨工业大学（深圳）计算机科学与技术学院陈科海教授课题组面向2025级硕士/博士研究生招生中](https://faculty.hitsz.edu.cn/chenkehai)
+
+[截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
+
+[截止：暂无] [上海交通大学人工智能与微结构实验室招收2024-2025年AI for Science 方向硕士生和博士生（免考试）](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
+
+[截止：暂无] [上海交通大学人工智能学院张林峰课题组招收2025届硕士于博士研究生](http://www.zhanglinfeng.tech/)
+
+[截止：暂无] [中国人民大学高瓴人工智能学院AI-Engine实验室招生](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
+
+[截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)
+
+[截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
 
 
