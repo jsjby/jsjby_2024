@@ -13,6 +13,8 @@
 
 ## 夏令营链接
 
+[截止：暂无] [清华大学智能产业研究院2024夏令营开始报名](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
+
 [截止：暂无] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
 [截止：暂无] [北京大学定量生物学中心2024年优秀大学生夏令营即将启动](https://cqb.pku.edu.cn/info/1064/2751.htm)
@@ -39,13 +41,15 @@
 
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
+[截止：5.31] [西湖大学2024年暑期科研实习公告](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
+
 [截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
 [截止：5.5] [南京大学计算机科学与技术系2024年本科生开放日报名通知](https://mp.weixin.qq.com/s/3ZdByvmeqqxgxNjAC5SiVA)
 
-[截止：4.24] [北京大学统计科学中心2024年夏令营材料提交延期至4月24日](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
-
 [截止：4.30] [香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
+
+[截止：4.24] [北京大学统计科学中心2024年夏令营材料提交延期至4月24日](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
 
 ~~[截止：4.20] [南京大学LAMDA招收 2025年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)~~
 
