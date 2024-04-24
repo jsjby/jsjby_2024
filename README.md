@@ -19,8 +19,6 @@
 
 [截止：暂无] [北京大学定量生物学中心2024年优秀大学生夏令营即将启动](https://cqb.pku.edu.cn/info/1064/2751.htm)
 
-[截止：暂无] [浙江大学良渚实验室2024年度优秀大学生夏令营招募](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1444)
-
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
 
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
@@ -67,6 +65,8 @@
 
 
 [截止：暂无] [哈尔滨工业大学（深圳）计算机科学与技术学院陈科海教授课题组面向2025级硕士/博士研究生招生中](https://faculty.hitsz.edu.cn/chenkehai)
+
+[截止：暂无] [浙江大学良渚实验室2024年度优秀大学生夏令营招募](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1444)
 
 [截止：暂无] [中国科学技术大学 MIRA Lab 2024保研招生简章](https://mp.weixin.qq.com/s/Eegp_MA1cIyjsT4TQr3j6Q)
 
