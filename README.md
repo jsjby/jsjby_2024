@@ -13,6 +13,12 @@
 
 ## 夏令营链接
 
+[截止：暂无] [浙江大学医学中心全国优秀大学生参加夏令营](https://mp.weixin.qq.com/s/WRHbLv5E39W54gYwWT4-TA)
+
+[截止：暂无] [南京大学2024年全国优秀大学生夏令营通知信息汇总（持续更新）](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
+
+[截止：暂无] [中国科学院微小卫星创新研究院2025年招生简章](https://mp.weixin.qq.com/s/up6icXQZgv_NV1Yzr_Rlqg)
+
 [截止：暂无] [清华大学智能产业研究院2024夏令营开始报名](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 [截止：暂无] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
@@ -22,6 +28,8 @@
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
 
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
+
+[截止：6.20] [南方科技大学生物医学工程系2024年全国优秀大学生夏令营](https://bme.sustech.edu.cn/20240425-2/?9=)
 
 [截止：6.20] [电子科技大学基础与前沿研究院2024年第九届“基础与前沿科学” 全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
 
@@ -40,6 +48,8 @@
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
 [截止：5.31] [西湖大学2024年暑期科研实习公告](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
+
+[截止：5.15] [清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/)
 
 [截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
