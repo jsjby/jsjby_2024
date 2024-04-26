@@ -25,6 +25,10 @@
 
 [截止：暂无] [北京大学定量生物学中心2024年优秀大学生夏令营即将启动](https://cqb.pku.edu.cn/info/1064/2751.htm)
 
+[截止：6.30] [上科大生物医学工程学院2024年大学生夏令营活动通知](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
+
+[截止：6.30] [临港实验室2024年大学生夏令营招生](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
+
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
 
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
@@ -33,21 +37,33 @@
 
 [截止：6.20] [电子科技大学基础与前沿研究院2024年第九届“基础与前沿科学” 全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
 
+[截止：6.20] [中国科学院宁波材料所2024年“梦启甬城，心动科苑”大学生暑期夏令营营员招募通知](https://ncmte.nimte.ac.cn/view-28877.html)
+
+[截止：6.17] [中国科学院大学（华大专项）2024年推免夏令营 - 基因组学 | 生物信息学 | 人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
+
 [截止：6.15] [北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
-[截止：6.15] [清华大学神经调控国家工程研究中心 暑期夏令营活动通知](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
+[截止：6.15] [清华大学神经调控国家工程研究中心暑期夏令营活动通知](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
 
 [截止：6.14] [香港中文大学工程学院系统工程与工程管理系（SEEM）将举办2024年博士生夏令营](https://phd-workshop.se.cuhk.edu.hk/#about)
+
+[截止：6.11] [北京大学前沿交叉学科研究院交叉学科2024年优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
+
+[截止：6.11] [北京大学生物医学前沿创新中心2024年优秀大学生夏令营的通知](https://biopic.pku.edu.cn/xspy/2024xly/)
 
 [截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
 
 [截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
+
+[截止：6.9] [西南大学心理学与脑科学2024年优秀大学生夏令营通知](http://psy.swu.edu.cn/info/1085/3736.htm)
 
 [截止：6.3] [北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=105)
 
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
 [截止：5.31] [西湖大学2024年暑期科研实习公告](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
+
+[截止：5.17] [辽宁科技大学关于举办2024年优秀大学生夏令营（深圳）活动的通知](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)
 
 [截止：5.15] [清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/)
 
@@ -57,7 +73,7 @@
 
 [截止：4.30] [香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
 
-[截止：4.24] [北京大学统计科学中心2024年夏令营材料提交延期至4月24日](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)
+~~[截止：4.24] [北京大学统计科学中心2024年夏令营材料提交延期至4月24日](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
 ~~[截止：4.20] [南京大学LAMDA招收 2025年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)~~
 
