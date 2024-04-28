@@ -57,11 +57,15 @@
 
 [截止：6.9] [西南大学心理学与脑科学2024年优秀大学生夏令营通知](http://psy.swu.edu.cn/info/1085/3736.htm)
 
+[截止：6.5] [河南工业大学复杂性科学中心关于举办“2024年全国优秀大学生暑期夏令营”活动的通知](https://cs.haut.edu.cn/info/1421/5974.htm)
+
 [截止：6.3] [北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=105)
 
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
 [截止：5.31] [西湖大学2024年暑期科研实习公告](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
+
+[截止：5.24] [清华大学地球系统科学系2024年全国优秀大学生夏令营通知](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
 
 [截止：5.17] [辽宁科技大学关于举办2024年优秀大学生夏令营（深圳）活动的通知](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)
 
