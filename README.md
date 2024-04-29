@@ -53,6 +53,8 @@
 
 [截止：6.14] [香港中文大学工程学院系统工程与工程管理系（SEEM）将举办2024年博士生夏令营](https://phd-workshop.se.cuhk.edu.hk/#about)
 
+[截止：6.12] [北京大学生命科学学院和生命科学联合中心（北大方面）关于联合举办“2024年全国优秀大学生夏令营”活动的通知](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
+
 [截止：6.11] [北京大学前沿交叉学科研究院交叉学科2024年优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
 
 [截止：6.11] [北京脑科学与类脑研究所夏令营报名通知](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
@@ -71,11 +73,15 @@
 
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
 
+[截止：5.31] [香港大学计算机科学研究实习计划](https://www.cs.hku.hk/rintern/)
+
 [截止：5.31] [西湖大学2024年暑期科研实习公告](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
 
 [截止：5.26] [清华大学工业工程系2024年全国优秀大学生夏令营通知](https://www.ie.tsinghua.edu.cn/info/1071/2648.htm)
 
 [截止：5.24] [清华大学地球系统科学系2024年全国优秀大学生夏令营通知](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
+
+[截止：5.24] [南京大学2024年软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
 
 [截止：5.17] [辽宁科技大学关于举办2024年优秀大学生夏令营（深圳）活动的通知](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)
 
@@ -84,6 +90,10 @@
 [截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
 [截止：5.5] [南京大学计算机科学与技术系2024年本科生开放日报名通知](https://mp.weixin.qq.com/s/3ZdByvmeqqxgxNjAC5SiVA)
+
+[截止：5.1] [澳门大学优秀学生暑期研習營正式接受報名](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)
+
+[截止：5.1] [香港大学计算机科学系2025年开办研究生招聘计划](https://i.cs.hku.hk/~gradappl/index.html)
 
 [截止：4.30] [香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
 
