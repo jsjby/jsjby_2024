@@ -19,6 +19,8 @@
 
 [截止：暂无] [中国科学院微小卫星创新研究院2025年招生简章](https://mp.weixin.qq.com/s/up6icXQZgv_NV1Yzr_Rlqg)
 
+[截止：暂无] [中国科学院大学杭州高等研究院关于2024年优秀大学生夏令营报名的通知](http://hias.ucas.ac.cn/info/1100/5633.htm)
+
 [截止：暂无] [清华大学智能产业研究院2024夏令营开始报名](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 [截止：暂无] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
