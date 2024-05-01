@@ -29,6 +29,8 @@
 
 [截止：6.30] [上科大生物医学工程学院2024年大学生夏令营活动通知](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
 
+[截止：6.30] [清华大学自动化系智能与网络化系统研究中心2024年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ)
+
 [截止：6.30] [临港实验室2024年大学生夏令营招生](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
 
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
@@ -135,7 +137,7 @@
 
 [截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)
 
-[截止：5.8] [清华交叉信息研究院 ARChipLab实验室【夏令营/保研研】](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
+[截止：5.8] [清华交叉信息研究院 ARChipLab实验室【夏令营/保研】](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
 
 
 
