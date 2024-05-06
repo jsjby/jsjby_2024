@@ -81,6 +81,8 @@
 
 [截止：6.3] [北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=105)
 
+[截止：6.3] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营通知](http://yzb.hit.edu.cn/2024/0506/c8824a343961/pagem.htm)
+
 [截止：6.2] [南京大学人工智能学院2024年本科生开放日(夏令营)报名通知](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
