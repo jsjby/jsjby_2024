@@ -47,6 +47,10 @@
 
 [截止：6.20] [中国科学院上海高等研究院 “梦筑高研” 2024年大学生暑期夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
 
+[截止：6.20] [中国科学院深圳先进技术研究院合成生物学青年夏令营活动通知](https://mp.weixin.qq.com/s/aq131eRueP21c-6P_dnpxw)
+
+[截止：6.20] [中国科学院分子细胞科学卓越创新中心2024年大学生夏令营活动通知](https://mp.weixin.qq.com/s/kl_mjg-fVWC_6KJq2S-KOA)
+
 [截止：6.17] [中国科学院大学（华大专项）2024年推免夏令营 - 基因组学 | 生物信息学 | 人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
 
 [截止：6.16] [南科大系统设计与智能制造学院2024年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)
@@ -65,6 +69,8 @@
 
 [截止：6.11] [北京大学生物医学前沿创新中心2024年优秀大学生夏令营的通知](https://biopic.pku.edu.cn/xspy/2024xly/)
 
+[截止：6.10] [南方医科大学生物医学工程学院2024年优秀大学生夏令营通知](http://portal.smu.edu.cn/swyxgcxy/info/1139/10387.htm)
+
 [截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
 
 [截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
@@ -75,11 +81,21 @@
 
 [截止：6.3] [北京大学生命科学联合中心（北大方面）2024年暑期培训班招生简章](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=105)
 
+[截止：6.2] [南京大学人工智能学院2024年本科生开放日(夏令营)报名通知](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
+
 [截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
+
+[截止：5.31] [复旦大学大数据学院2024年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/3f/31/c17701a671537/page.htm)
+
+[截止：5.31] [复旦大学类脑智能科学与技术研究院2024年全国优秀大学生夏令营活动通知](https://istbi.fudan.edu.cn/info/1167/5380.htm)
+
+[截止：5.31] [复旦大学2024年全国优秀大学生夏令营活动报名须知及各院系夏令营活动通知](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
 [截止：5.31] [香港大学计算机科学研究实习计划](https://www.cs.hku.hk/rintern/)
 
 [截止：5.31] [西湖大学2024年暑期科研实习公告](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml)
+
+[截止：5.30] [哈尔滨工业大学2024年 “研途有你”优秀生源选拔夏令营通知](http://yzb.hit.edu.cn/2024/0506/c8824a343961/pagem.htm)
 
 [截止：5.26] [清华大学工业工程系2024年全国优秀大学生夏令营通知](https://www.ie.tsinghua.edu.cn/info/1071/2648.htm)
 
