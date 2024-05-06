@@ -93,13 +93,13 @@
 
 [截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
-[截止：5.5] [南京大学计算机科学与技术系2024年本科生开放日报名通知](https://mp.weixin.qq.com/s/3ZdByvmeqqxgxNjAC5SiVA)
+~~[截止：5.5] [南京大学计算机科学与技术系2024年本科生开放日报名通知](https://mp.weixin.qq.com/s/3ZdByvmeqqxgxNjAC5SiVA)~~
 
-[截止：5.1] [澳门大学优秀学生暑期研習營正式接受報名](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)
+~~[截止：5.1] [澳门大学优秀学生暑期研習營正式接受報名](https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/)~~
 
-[截止：5.1] [香港大学计算机科学系2025年开办研究生招聘计划](https://i.cs.hku.hk/~gradappl/index.html)
+~~[截止：5.1] [香港大学计算机科学系2025年开办研究生招聘计划](https://i.cs.hku.hk/~gradappl/index.html)~~
 
-[截止：4.30] [香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)
+~~[截止：4.30] [香港中文大学（深圳）数据科学学院2024年夏令营Mini Camp](https://sds.cuhk.edu.cn/article/1635)~~
 
 ~~[截止：4.24] [北京大学统计科学中心2024年夏令营材料提交延期至4月24日](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
