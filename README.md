@@ -169,9 +169,9 @@
 
 [截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
 
-[截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)
+~~[截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)~~
 
-[截止：5.8] [清华交叉信息研究院 ARChipLab实验室【夏令营/保研】](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
+~~[截止：5.8] [清华交叉信息研究院 ARChipLab实验室【夏令营/保研】](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)~~
 
 
 
