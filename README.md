@@ -137,6 +137,8 @@
 
 [截止：5.30] [哈尔滨工业大学电子与信息工程学院2024年暑期夏令营的通知](http://seie.hit.edu.cn/2024/0507/c17148a344093/page.htm)
 
+[截止：5.30] [哈尔滨工业大学（深圳）空间科学与应用技术研究院全国优秀大学生学术夏令营的通知](http://issat.hitsz.edu.cn/currency.jsp?wbtreeid=1079&wbnewsid=2622)
+
 [截止：5.26] [清华大学工业工程系2024年全国优秀大学生夏令营通知](https://www.ie.tsinghua.edu.cn/info/1071/2648.htm)
 
 [截止：5.24] [清华大学地球系统科学系2024年全国优秀大学生夏令营通知](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
