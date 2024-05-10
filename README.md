@@ -171,7 +171,7 @@
 
 [截止：5.15] [清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/)
 
-[截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
+~~[截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)~~
 
 ~~[截止：5.5] [南京大学计算机科学与技术系2024年本科生开放日报名通知](https://mp.weixin.qq.com/s/3ZdByvmeqqxgxNjAC5SiVA)~~
 
