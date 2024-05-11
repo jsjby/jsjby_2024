@@ -41,6 +41,8 @@
 
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
 
+[截止：6.23] [中国科学院遗传与发育生物学研究所2024年“筑梦科学”大学生夏令营活动报名通知](https://genetics.cas.cn/edu/zsxx/xlytms/202405/t20240511_7158069.html)
+
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
 
 [截止：6.20] [南方科技大学生物医学工程系2024年全国优秀大学生夏令营](https://bme.sustech.edu.cn/20240425-2/?9=)
@@ -84,6 +86,8 @@
 [截止：6.11] [北京脑科学与类脑研究所夏令营报名通知](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
 
 [截止：6.11] [北京大学生物医学前沿创新中心2024年优秀大学生夏令营的通知](https://biopic.pku.edu.cn/xspy/2024xly/)
+
+[截止：6.10] [北京协和医学院医学信息研究所2024年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/osh_ywpQmUYVesWWW3pFGQ)
 
 [截止：6.10] [南方医科大学生物医学工程学院2024年优秀大学生夏令营通知](http://portal.smu.edu.cn/swyxgcxy/info/1139/10387.htm)
 
@@ -141,6 +145,10 @@
 
 [截止：5.31] [复旦大学信息科学与工程学院电子工程系2024年全国优秀大学生夏令营活动方案](http://ee.fudan.edu.cn/Data/View/926)
 
+[截止：5.31] [复旦大学信息科学与工程学院生物医学工程系2024年全国优秀大学生夏令营活动方案](https://bme.fudan.edu.cn/45/2a/c25988a673066/page.htm)
+
+[截止：5.31] [复旦大学信息科学与工程学院光源与照明工程系2024年全国优秀大学生夏令营活动](https://mp.weixin.qq.com/s/NugxcZkixD11vt7suYGzZQ)
+
 [截止：5.31] [复旦大学2024年全国优秀大学生夏令营活动报名须知及各院系夏令营活动通知](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
 [截止：5.31] [香港大学计算机科学研究实习计划](https://www.cs.hku.hk/rintern/)
@@ -159,6 +167,8 @@
 
 [截止：5.30] [哈尔滨工业大学（深圳）人文与社会科学学院全国优秀大学生学术夏令营的通知](http://shss.hitsz.edu.cn/info/1924/3079.htm)
 
+[截止：5.30] [哈尔滨工业大学（深圳）集成电路学院 2025年全国优秀大学生学术夏令营的通知](http://ic.hitsz.edu.cn/info/1032/2426.htm)
+
 [截止：5.30] [哈尔滨工业大学计算学部关于举办2024年优秀研究生生源选拔暑期夏令营的通知](https://cs.hit.edu.cn/2024/0510/c11474a344345/pagem.htm)
 
 [截止：5.30] [哈尔滨工业大学（深圳）空间科学与应用技术研究院全国优秀大学生学术夏令营的通知](http://issat.hitsz.edu.cn/currency.jsp?wbtreeid=1079&wbnewsid=2622)
@@ -170,6 +180,8 @@
 [截止：5.24] [清华大学地球系统科学系2024年全国优秀大学生夏令营通知](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)
 
 [截止：5.24] [南京大学2024年软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
+
+[截止：5.24] [清华大学计算机科学与技术系2024年“全国优秀大学生夏令营”预通知](https://www.cs.tsinghua.edu.cn/info/1087/6089.htm)
 
 [截止：5.20] [湖南工商大学计算机学院2024年优秀大学生暑期夏令营活动方案](https://cee.hutb.edu.cn/p155/tzgg/20240508/159478.html)
 
