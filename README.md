@@ -91,6 +91,8 @@
 
 [截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
 
+[截止：6.10] [吉林大学软件学院2024年优秀大学生暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/7193.htm)
+
 [截止：6.9] [西南大学心理学与脑科学2024年优秀大学生夏令营通知](http://psy.swu.edu.cn/info/1085/3736.htm)
 
 [截止：6.7] [吉林大学计算机科学与技术学院2024年优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1091/19265.htm)
@@ -137,6 +139,8 @@
 
 [截止：5.31] [复旦大学基础医学院2024年全国优秀大学生夏令营活动通知](https://basicmed.fudan.edu.cn/41/37/c30927a672055/page.htm)
 
+[截止：5.31] [复旦大学信息科学与工程学院电子工程系2024年全国优秀大学生夏令营活动方案](http://ee.fudan.edu.cn/Data/View/926)
+
 [截止：5.31] [复旦大学2024年全国优秀大学生夏令营活动报名须知及各院系夏令营活动通知](https://gsao.fudan.edu.cn/3f/02/c15014a671490/page.htm)
 
 [截止：5.31] [香港大学计算机科学研究实习计划](https://www.cs.hku.hk/rintern/)
@@ -172,6 +176,8 @@
 [截止：5.17] [辽宁科技大学关于举办2024年优秀大学生夏令营（深圳）活动的通知](https://www.ustl.edu.cn/yjs/info/1030/3007.htm)
 
 [截止：5.15] [清华大学交叉信息研究院优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/)
+
+[截止：5.15] [清华大学人工智能学院夏令营](https://admission.iiis.tsinghua.edu.cn/index-ai.php)
 
 ~~[截止：5.10] [中国科学院空天信息创新研究院2024年春令营招生简章](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)~~
 
