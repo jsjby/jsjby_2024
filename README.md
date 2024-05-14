@@ -103,6 +103,8 @@
 
 [截止：6.11] [北京大学生物医学前沿创新中心2024年优秀大学生夏令营的通知](https://biopic.pku.edu.cn/xspy/2024xly/)
 
+[截止：6.10] [北京大学工学院优秀大学生暑期夏令营通知](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
+
 [截止：6.10] [北京协和医学院医学信息研究所2024年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/osh_ywpQmUYVesWWW3pFGQ)
 
 [截止：6.10] [南方医科大学生物医学工程学院2024年优秀大学生夏令营通知](http://portal.smu.edu.cn/swyxgcxy/info/1139/10387.htm)
@@ -246,6 +248,8 @@
 
 
 ## 导师课题组或实验室招生
+
+[截止：暂无] [上海人工智能实验室浦视团队联培博士(2025)招生正式启动](https://mp.weixin.qq.com/s/iNw-JVuakJ8q-eLWCYUgVA)
 
 [截止：暂无] [清华大学航空宇航电子系统实验室2024年夏令营招生](https://www.hy.tsinghua.edu.cn/info/1203/3067.htm)
 
