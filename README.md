@@ -119,6 +119,8 @@
 
 [截止：6.10] [南方医科大学生物医学工程学院2024年优秀大学生夏令营通知](http://portal.smu.edu.cn/swyxgcxy/info/1139/10387.htm)
 
+[截止：6.10] [清华大学化学工程系2024年全国优秀大学生化工与新材料夏令营通知](https://www.chemeng.tsinghua.edu.cn/info/1038/3862.htm)
+
 [截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
 
 [截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
