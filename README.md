@@ -65,11 +65,15 @@
 
 [截止：6.21] [中国科学院上海技术物理研究所“红外筑梦”优秀大学生暑期夏令营报名通知](https://sitp.cas.cn/yjs/zsxx/ssszs/202405/t20240513_7159190.html)
 
+[截止：6.21] [中国科学院南海海洋研究所2024年“蓝色海洋”大学生夏令营活动通知](http://scsio.cas.cn/yjsjy/lhpy/xly/202405/t20240517_7164853.html)
+
 [截止：6.21] [北京大学信息工程学院关于举办“2024年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2770.htm)
 
 [截止：6.20] [北京生命科学研究所2025年推荐免试研究生招生简章（含TIMBR项目）](https://mp.weixin.qq.com/s/4VrfK83-aZNfVOrE8YWyvg)
 
 [截止：6.20] [北京大学城市规划与设计学院 关于举办 “2024年全国优秀大学生夏令营”的通知](https://urban.pkusz.edu.cn/info/1028/3351.htm)
+
+[截止：6.20] [广州国家实验室夏令营报名通知](https://mp.weixin.qq.com/s/aTxMhVR7ucHsvCO0lXx-Xg)
 
 [截止：6.20] [南方科技大学生物医学工程系2024年全国优秀大学生夏令营](https://bme.sustech.edu.cn/20240425-2/?9=)
 
@@ -102,6 +106,8 @@
 [截止：6.16] [南科大系统设计与智能制造学院2024年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)
 
 [截止：6.16] [浙江大学生命科学研究院2024年学术夏令营的通知](http://lsi.zju.edu.cn/2024/0516/c25130a2916922/page.htm)
+
+[截止：6.16] [上海交通大学密西根学院2025年研究生招生夏令营选拔活动通知](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 [截止：6.16] [南京大学南京赫尔辛基大气与地球系统科学学院优秀大学生夏令营通知](https://mp.weixin.qq.com/s/K9hKQztm9Bv2lUPEKF1nPQ)
 
@@ -251,6 +257,8 @@
 
 [截止：5.30] [哈尔滨工业大学（深圳）人文与社会科学学院全国优秀大学生学术夏令营的通知](http://shss.hitsz.edu.cn/info/1924/3079.htm)
 
+[截止：5.30] [哈尔滨工业大学航天学院2025级优秀研究生生源选拔暑期夏令营的通知](https://sa.hit.edu.cn/2024/0518/c6582a344973/page.htm)
+
 [截止：5.30] [哈尔滨工业大学（深圳）集成电路学院 2025年全国优秀大学生学术夏令营的通知](http://ic.hitsz.edu.cn/info/1032/2426.htm)
 
 [截止：5.30] [哈尔滨工业大学（深圳）电子与信息工程学院全国优秀大学生学术夏令营的通知](http://eie.hitsz.edu.cn/info/1007/2569.htm)
@@ -260,6 +268,8 @@
 [截止：5.30] [哈尔滨工业大学（深圳）空间科学与应用技术研究院全国优秀大学生学术夏令营的通知](http://issat.hitsz.edu.cn/currency.jsp?wbtreeid=1079&wbnewsid=2622)
 
 [截止：5.29] [浙江大学管理学院IPhD2024夏令营活动通知](http://www.som.zju.edu.cn/2024/0510/c63512a2913296/page.htm)
+
+[截止：5.29] [南京信息工程大学气象卓越工程师学院、人工智能学院暑期学校通知](https://mp.weixin.qq.com/s/2uu_eVmoj-k4Cx9r0lJZNg)
 
 [截止：5.26] [清华大学工业工程系2024年全国优秀大学生夏令营通知](https://www.ie.tsinghua.edu.cn/info/1071/2648.htm)
 
