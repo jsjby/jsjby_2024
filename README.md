@@ -87,6 +87,10 @@
 
 [截止：6.20] [中国科学院深圳先进技术研究院SIAT脑认知与脑疾病研究所第十届脑·未来优秀大学生夏令营](http://bcbdi.siat.ac.cn/index.php/news/showNews/nid/651.shtml)
 
+[截止：6.20] [中国科学院东北地理与农业生态研究所2024年优秀大学生夏令营](https://b.xiumi.us/stage/v5/6wQxm/537091591#/)
+
+[截止：6.20] [中国科学院文献情报中心2024年大学生夏令营](https://mp.weixin.qq.com/s/1V_nMW5m3tZG2hKKdTGiVQ)
+
 [截止：6.20] [中国科学院上海高等研究院 “梦筑高研” 2024年大学生暑期夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
 
 [截止：6.20] [中国科学院微小卫星创新研究院2024年 “筑梦星空”暑期大学生夏令营招募通知](https://mp.weixin.qq.com/s/JE2446zUtAk86WM7vw1h9A)
