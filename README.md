@@ -165,7 +165,7 @@
 
 [截止：6.14] [上海交通大学海洋学院 2025年研究生优才夏令营通知](https://soo.sjtu.edu.cn/zsNotces/6396.html)
 
-[截止：6.14] [清华大学国际开放创新教育中心（Open FIESTA）2024年优秀大学生创新设计工坊暨夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
+[截止：6.13] [清华大学国际开放创新教育中心（Open FIESTA）2024年优秀大学生创新设计工坊暨夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm)
 
 [截止：6.13] [南京大学智能科学与技术学院2024年本科生开放日（夏令营）报名通知](https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm)
 
