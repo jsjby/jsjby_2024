@@ -341,7 +341,7 @@
 
 [截止：5.24] [清华大学计算机科学与技术系2024年“全国优秀大学生夏令营”预通知](https://www.cs.tsinghua.edu.cn/info/1087/6089.htm)
 
-[截止：5.22] [清华大学网络研究院2024年全国优秀大学生夏令营预通知](https://mp.weixin.qq.com/s/2t-2sMpMVCKzTmRNQIMNIA)
+~~[截止：5.22] [清华大学网络研究院2024年全国优秀大学生夏令营预通知](https://mp.weixin.qq.com/s/2t-2sMpMVCKzTmRNQIMNIA)~~
 
 ~~[截止：5.20] [湖南工商大学计算机学院2024年优秀大学生暑期夏令营活动方案](https://cee.hutb.edu.cn/p155/tzgg/20240508/159478.html)~~
 
