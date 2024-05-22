@@ -57,6 +57,8 @@
 
 [截止：6.27] [深圳医学科学院深圳湾实验室全国优秀大学生夏令营即将开启](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
 
+[截止：6.26] [中国科学院计算机网络信息中心“网络与计算”夏令营通知](http://cnic.cas.cn/yjsjy/tzgg/202405/t20240521_7167085.html)
+
 [截止：6.25] [北京大学新材料学院2024年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)
 
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
