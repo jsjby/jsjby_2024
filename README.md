@@ -135,6 +135,8 @@
 
 [截止：6.17] [中国科学院大学（华大专项）2024年推免夏令营 - 基因组学 | 生物信息学 | 人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
 
+[截止：6.17] [上海交通大学转化医学研究院“2025年优才夏令营”通知](https://transmed.sjtu.edu.cn/detail?type=notice&id=1793115189206441986&noticeType=home_notice)
+
 [截止：6.16] [南科大系统设计与智能制造学院2024年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)
 
 [截止：6.16] [浙江大学生命科学研究院2024年学术夏令营的通知](http://lsi.zju.edu.cn/2024/0516/c25130a2916922/page.htm)
