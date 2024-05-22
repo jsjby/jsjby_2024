@@ -133,6 +133,8 @@
 
 [截止：6.19] [南方科技大学电子与电气工程系2024年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/UrRXQB3cmBdh6IZsMP275Q)
 
+[截止：6.18] [同济大学生命科学与技术学院2024年优秀学生暑期学校活动通知](https://life.tongji.edu.cn/1d/ac/c12644a335276/page.htm)
+
 [截止：6.17] [中国科学院大学（华大专项）2024年推免夏令营 - 基因组学 | 生物信息学 | 人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
 
 [截止：6.17] [上海交通大学转化医学研究院“2025年优才夏令营”通知](https://transmed.sjtu.edu.cn/detail?type=notice&id=1793115189206441986&noticeType=home_notice)
@@ -214,6 +216,8 @@
 [截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
 
 [截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
+
+[截止：6.10] [浙江大学生物医学工程与仪器科学学院2024年优秀大学生夏令营活动通知](http://www.cbeis.zju.edu.cn/2024/0521/c63837a2920257/page.htm)
 
 [截止：6.10] [吉林大学软件学院2024年优秀大学生暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/7193.htm)
 
