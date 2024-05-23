@@ -23,6 +23,10 @@
 
 [截止：暂无] [北京师范大学2024年优秀大学生暑期夏令营活动（持续更新中）](https://yz.bnu.edu.cn/detail/0d44aa4c-df5a-43cb-8ea6-808edd09f332)
 
+[截止：暂无] [武汉大学2024年优秀大学生夏令营活动报名须知](https://wdyz.whu.edu.cn/info/1031/6143.htm)
+
+[截止：暂无] [浙江大学2024年各学院（系）夏令营通知汇总](http://www.grs.zju.edu.cn/yjszs/2024/0523/c28487a2921525/page.htm)
+
 [截止：暂无] [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
 
 [截止：暂无] [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
