@@ -87,6 +87,8 @@
 
 [截止：6.25] [中国科学院海洋研究所海洋科学2024年暑期夏令营报名通知](http://www.qdio.ac.cn/yjs/yjsnotice/202405/t20240524_786258.html)
 
+[截止：6.25] [中国科学院大学杭州高等研究院药物科学与技术学院2024年全国优秀大学生夏令营活动报名通知](http://hias.ucas.ac.cn/ywkxyjsxy/info/1065/1977.htm)
+
 [截止：6.25] [西安交通大学电信学部—软件学院2024年（第八届）优秀大学生夏令营通知](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
 [截止：6.23] [中国科学院遗传与发育生物学研究所2024年“筑梦科学”大学生夏令营活动报名通知](https://genetics.cas.cn/edu/zsxx/xlytms/202405/t20240511_7158069.html)
@@ -172,6 +174,14 @@
 [截止：6.16] [上海交通大学密西根学院2025年研究生招生夏令营选拔活动通知](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 [截止：6.16] [南京大学南京赫尔辛基大气与地球系统科学学院优秀大学生夏令营通知](https://mp.weixin.qq.com/s/K9hKQztm9Bv2lUPEKF1nPQ)
+
+[截止：6.15] [厦门大学信息学院（特色化示范性软件学院） 2024年优秀大学生夏令营报名指南](https://informatics.xmu.edu.cn/info/1050/38419.htm)
+
+[截止：6.15] [厦门大学人工智能研究院2024年优秀大学生夏令营报名指南](https://iai.xmu.edu.cn/info/1110/3974.htm)
+
+[截止：6.15] [厦门大学柔性电子（未来技术）研究院2024年优秀大学生夏令营报名指南](https://mp.weixin.qq.com/s/VX8eVUEEcrs3Yyle5VeNjA)
+
+[截止：6.15] [厦门大学电子科学与技术学院2024年全国优秀大学生暑期夏令营招生指南](https://ese.xmu.edu.cn/info/1018/21449.htm)
 
 [截止：6.15] [北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
