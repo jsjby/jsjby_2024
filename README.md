@@ -57,6 +57,8 @@
 
 [截止：7.1] [西安交通大学前沿科学技术研究院2024年全国优秀大学生夏令营通知](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
+[截止：7.1] [中国科学院大学集成电路学院2024年微电子大学生夏令营报名通知](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6)
+
 [截止：6.30] [中国科学院精密测量科学与技术创新研究院2024年大学生“菁英”夏令营营员招募启事](http://www.apm.cas.cn/yjsjy/kjrh/dxsxly/202405/t20240508_7154563.html)
 
 [截止：6.30] [上科大生物医学工程学院2024年大学生夏令营活动通知](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
@@ -82,6 +84,8 @@
 [截止：6.25] [中国科学院高能物理研究所2024年全国大学生夏令营及暑期学校活动报名通知](http://www.ihep.cas.cn/edu/bks/xly/202405/t20240513_7159182.html)
 
 [截止：6.25] [中国科学院新疆理化所“2023走进中科院，看大美之疆”大学生夏令营报名通知](http://www.xjipc.cas.cn/yjs/tzgg/202305/t20230516_6755162.html)
+
+[截止：6.25] [中国科学院海洋研究所海洋科学2024年暑期夏令营报名通知](http://www.qdio.ac.cn/yjs/yjsnotice/202405/t20240524_786258.html)
 
 [截止：6.25] [西安交通大学电信学部—软件学院2024年（第八届）优秀大学生夏令营通知](http://se.xjtu.edu.cn/info/1043/2679.htm)
 
@@ -138,6 +142,8 @@
 [截止：6.20] [中国科学院上海高等研究院 “梦筑高研” 2024年大学生暑期夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
 
 [截止：6.20] [中国科学院微小卫星创新研究院2024年 “筑梦星空”暑期大学生夏令营招募通知](https://mp.weixin.qq.com/s/JE2446zUtAk86WM7vw1h9A)
+
+[截止：6.20] [中国科学院杭州医学研究所2024年“Find 分子与医学”优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/Ii7qPUwnqCPfhkQofUU-uw)
 
 [截止：6.20] [中国科学院深圳先进技术研究院合成生物学青年夏令营活动通知](https://mp.weixin.qq.com/s/aq131eRueP21c-6P_dnpxw)
 
