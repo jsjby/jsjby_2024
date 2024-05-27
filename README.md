@@ -415,7 +415,7 @@
 
 [截止：5.29] [南京信息工程大学气象卓越工程师学院、人工智能学院暑期学校通知](https://mp.weixin.qq.com/s/2uu_eVmoj-k4Cx9r0lJZNg)
 
-[截止：5.26] [清华大学工业工程系2024年全国优秀大学生夏令营通知](https://www.ie.tsinghua.edu.cn/info/1071/2648.htm)
+~~[截止：5.26] [清华大学工业工程系2024年全国优秀大学生夏令营通知](https://www.ie.tsinghua.edu.cn/info/1071/2648.htm)~~
 
 ~~[截止：5.24] [清华大学地球系统科学系2024年全国优秀大学生夏令营通知](https://www.dess.tsinghua.edu.cn/info/1123/6142.htm)~~
 
