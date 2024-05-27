@@ -15,6 +15,12 @@
 
 [截止：暂无] [中国科学院合肥物质科学研究院第十一届科学岛优秀大学生夏令营报名预通知](https://mp.weixin.qq.com/s/EvrdKl_IsIxkFH2D99BEnQ)
 
+[截止：暂无] [中国科学院大学人工智能学院2025年接收推荐免试硕士（含直博生）研究生招生公告](https://ai.ucas.ac.cn/index.php/zh-cn/tzgg/7313-2025)
+
+[截止：暂无] [中南大学2024年优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
+
+[截止：暂无] [湖南大学2024年各学院优秀大学生暑期夏令营信息汇总](https://gra.hnu.edu.cn/info/1075/9607.htm)
+
 [截止：暂无] [华东师大2024年“优秀大学生夏令营”报名开启](https://yjszs.ecnu.edu.cn/15/a2/c43265a595362/page.htm)
 
 [截止：暂无] [厦门大学2024年大学生夏令营报名指南](https://zs.xmu.edu.cn/info/1055/28951.htm)
@@ -53,6 +59,8 @@
 
 [截止：8.16] [同济大学2025年“国优计划”研究生招生报名通知(推免选拔)](https://yz.tongji.edu.cn/info/1010/3518.htm)
 
+[截止：7.12] [中国科学院重庆绿色智能技术研究院优秀大学生夏令营活动方案](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202405/t20240527_7173191.html)
+
 [截止：7月中] [上海交通大学溥渊未来技术学院2025年研究生招生夏令营活动通知](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)
 
 [截止：7.9] [北京师范大学人工智能学院全国优秀大学生夏令营](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
@@ -82,6 +90,8 @@
 [截止：6.30] [临港实验室2024年大学生夏令营招生](https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html)
 
 [截止：6.30] [中国科学院软件研究所2024年全国大学生“软件与网络”夏令营招生简章](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html)
+
+[截止：6.30] [中国科学院深圳先进技术研究院2024年优秀大学生夏令营招生简章](https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html)
 
 [截止：6.28] [中国科学院近代物理研究所2024年优秀大学生夏令营的通知](https://imp.cas.cn/edu/zsyds/zsdt/xlytz/202405/t20240522_7167873.html)
 
@@ -191,6 +201,8 @@
 
 [截止：6.18] [同济大学生命科学与技术学院2024年优秀学生暑期学校活动通知](https://life.tongji.edu.cn/1d/ac/c12644a335276/page.htm)
 
+[截止：6.18] [南大NLP夏令营招募公告](https://mp.weixin.qq.com/s/jWJiq2E2gHha_K9ryWg2sA)
+
 [截止：6.18] [清华大学SIGS-IMDT2024年优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/svxH2JYqnDDrqa-acw8rfA)
 
 [截止：6.17] [中国科学院大学（华大专项）2024年推免夏令营 - 基因组学 | 生物信息学 | 人工智能](https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg)
@@ -252,6 +264,8 @@
 [截止：6.14] [香港中文大学工程学院系统工程与工程管理系（SEEM）将举办2024年博士生夏令营](https://phd-workshop.se.cuhk.edu.hk/#about)
 
 [截止：6.14] [北京语言大学语言学系“语言与人脑科学专全国优秀大学生夏令营](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
+
+[截止：6.14] [湖南大学半导体学院（集成电路学院）2024年优秀大学生暑期夏令营活动通知](http://sic.hnu.edu.cn/info/1115/1865.htm)
 
 [截止：6.14] [华东师范大学软件工程学院 2024年“可信人工智能优秀大学生夏令营”活动通知](http://www.sei.ecnu.edu.cn/18/2c/c33171a596012/page.htm)
 
