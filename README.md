@@ -65,6 +65,14 @@
 
 [截止：6.30] [中国科学技术大学 “优秀大学生夏令营”活动通知](https://yz.ustc.edu.cn/article/2712/176?num=-1)
 
+[截止：6.30] [中国科学技术大学苏州高等研究院夏令营报名通知](https://sz.ustc.edu.cn/xwgg_show/1574.html)
+
+[截止：6.30] [中国科学技术大学网络空间与信息安全夏令营报名通知](https://cybersec.ustc.edu.cn/2024/0527/c23826a642029/page.htm)
+
+[截止：6.30] [中国科学技术大学第八届环境交叉科学夏令营通知](https://ese.ustc.edu.cn/2024/0527/c26730a642022/page.htm)
+
+[截止：6.30] [中国科学技术大学管理与统计金融夏令营报名通知](https://som.ustc.edu.cn/2024/0527/c29753a642011/page.htm)
+
 [截止：6.30] [中国科学院精密测量科学与技术创新研究院2024年大学生“菁英”夏令营营员招募启事](http://www.apm.cas.cn/yjsjy/kjrh/dxsxly/202405/t20240508_7154563.html)
 
 [截止：6.30] [上科大生物医学工程学院2024年大学生夏令营活动通知](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
@@ -86,6 +94,8 @@
 [截止：6.25] [北京大学新材料学院2024年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)
 
 [截止：6.25] [同济大学测绘与地理信息学院优秀学生暑期学校活动通知](https://celiang.tongji.edu.cn/info/1205/3871.htm)
+
+[截止：6.25] [浙江大学计算机学院招收2024年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2024/0527/c27011a2923257/page.htm)
 
 [截止：6.25] [中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）暑期学校2024年招生](https://mp.weixin.qq.com/s/zmPQqBr-5qUlSMzpNZGekw)
 
@@ -236,6 +246,8 @@
 [截止：6.15] [中国科学院大学沈阳计算所2024年大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=144)
 
 [截止：6.15] [中国科学院2024年国家天文台天文暑期学校招生简章](https://www.nao.cas.cn/jypy/jy/zs/202405/t20240514_7160424.html)
+
+[截止：6.15] [南京师范大学计算机与电子信息学院/人工智能学院2024年全国“优秀本科生夏令营”活动公告](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19264)
 
 [截止：6.14] [香港中文大学工程学院系统工程与工程管理系（SEEM）将举办2024年博士生夏令营](https://phd-workshop.se.cuhk.edu.hk/#about)
 
