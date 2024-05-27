@@ -275,6 +275,8 @@
 
 [截止：6.11] [同济大学软件学院优秀学生暑期学校活动通知](https://sse.tongji.edu.cn/info/1132/5077.htm)
 
+[截止：6.11] [南京大学地球科学与工程学院 “现代地球科学”优秀大学生夏令营招募通知](https://mp.weixin.qq.com/s/LxXbsZ-HvRLiOjsGv8ZZIA)
+
 [截止：6.11] [浙江大学航空航天学院关于举办2024年优秀大学生暑期夏令营的通知](http://saa.zju.edu.cn/2024/0523/c67629a2921833/page.htm)
 
 [截止：6.11] [清华SIGS 2024年生物医药与健康工程研究院优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/y24loBEOZfHGraxoZUeGOw)
