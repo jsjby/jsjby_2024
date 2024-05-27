@@ -57,9 +57,13 @@
 
 [截止：7.9] [北京师范大学人工智能学院全国优秀大学生夏令营](https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw)
 
+[截止：7.9] [北京语言大学信息科学学院暨语言智能研究院全国优秀大学生夏令营](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
+
 [截止：7.1] [西安交通大学前沿科学技术研究院2024年全国优秀大学生夏令营通知](https://fist.xjtu.edu.cn/info/1013/4052.htm)
 
 [截止：7.1] [中国科学院大学集成电路学院2024年微电子大学生夏令营报名通知](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6)
+
+[截止：6.30] [中国科学技术大学 “优秀大学生夏令营”活动通知](https://yz.ustc.edu.cn/article/2712/176?num=-1)
 
 [截止：6.30] [中国科学院精密测量科学与技术创新研究院2024年大学生“菁英”夏令营营员招募启事](http://www.apm.cas.cn/yjsjy/kjrh/dxsxly/202405/t20240508_7154563.html)
 
@@ -73,7 +77,7 @@
 
 [截止：6.28] [中国科学院近代物理研究所2024年优秀大学生夏令营的通知](https://imp.cas.cn/edu/zsyds/zsdt/xlytz/202405/t20240522_7167873.html)
 
-[截止：6.27] [深圳医学科学院深圳湾实验室全国优秀大学生夏令营即将开启](https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA)
+[截止：6.27] [深圳医学科学院-深圳湾实验室2024年全国优秀大学生夏令营报名通知](https://www.szbl.ac.cn/infomation/notice/5470.html)
 
 [截止：6.26] [中国科学院计算机网络信息中心“网络与计算”夏令营通知](http://cnic.cas.cn/yjsjy/tzgg/202405/t20240521_7167085.html)
 
@@ -102,6 +106,8 @@
 [截止：6.23] [中国工程物理研究院暑期招生夏令营活动报名启动](https://job.lzu.edu.cn/html/74/article/2024/71975.html)
 
 [截止：6.23] [中山大学微电子科学与技术学院2024年全国优秀大学生夏令营报名通知](https://mst.sysu.edu.cn/article/997?nPc3zErtSS1t=1716562220559)
+
+[截止：6.23] [中山大学电子与信息工程学院（微电子学院）2024年全国优秀大学生暑期夏令营活动通知](https://seit.sysu.edu.cn/article/2594?nPc3zErtSS1t=1716786409401)
 
 [截止：6.23] [上海科技大学信息科学与技术学院2024年优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm)
 
@@ -205,6 +211,8 @@
 
 [截止：6.15] [厦门大学公共卫生学院2024年全国优秀大学生夏令营报名指南](https://sph.xmu.edu.cn/info/1311/52304.htm)
 
+[截止：6.15] [厦门大学电影学院2024年优秀大学生夏令营报名指南](https://film.xmu.edu.cn/info/1208/12795.htm)
+
 [截止：6.15] [北京大学未来技术学院关于举办 “2024年全国优秀大学生夏令营” 活动的通知](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
 
 [截止：6.15] [清华大学神经调控国家工程研究中心暑期夏令营活动通知](https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw)
@@ -230,6 +238,8 @@
 [截止：6.15] [中国科学院2024年国家天文台天文暑期学校招生简章](https://www.nao.cas.cn/jypy/jy/zs/202405/t20240514_7160424.html)
 
 [截止：6.14] [香港中文大学工程学院系统工程与工程管理系（SEEM）将举办2024年博士生夏令营](https://phd-workshop.se.cuhk.edu.hk/#about)
+
+[截止：6.14] [北京语言大学语言学系“语言与人脑科学专全国优秀大学生夏令营](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
 
 [截止：6.14] [华东师范大学软件工程学院 2024年“可信人工智能优秀大学生夏令营”活动通知](http://www.sei.ecnu.edu.cn/18/2c/c33171a596012/page.htm)
 
