@@ -1,4 +1,6 @@
-# 2024年计算机保研招生通知
+# 2024年计算机保研招生通知【截止日期版本】
+
+# [2024年计算机保研招生通知(按照学校分类版本)](https://github.com/jsjby/jsjby_schoool_2024)
 
 **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
