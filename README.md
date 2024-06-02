@@ -513,7 +513,7 @@
 
 [截止：6.2] [南京大学人工智能学院2024年本科生开放日(夏令营)报名通知](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)
 
-[截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
+~~[截止：6.1] [北京协和医学院昌平实验室2024年生命科学与前沿技术夏令营简章](https://cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)~~
 
 ~~[截止：5.31] [北京协和医学院群医学及公共卫生学院2024年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/peYpLT-2q0r3TGU5Q5wYKg)~~
 
