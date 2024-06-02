@@ -71,6 +71,10 @@
 
 [截止：8.16] [同济大学2025年“国优计划”研究生招生报名通知(推免选拔)](https://yz.tongji.edu.cn/info/1010/3518.htm)
 
+[截止：8.5] [中国科学院空间应用工程与技术中心2024年“太空应用”夏令营招募通知](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
+
+[截止：7.15] [南京大学匡亚明学院关于举办2024年“全国优秀大学生交叉学科暑期学校”的通知](https://dii.nju.edu.cn/89/f5/c11317a690677/page.htm)
+
 [截止：7.31] [北京邮电大学电子工程学院面向2025级研究生暑期夏令营活动安排](https://see.bupt.edu.cn/info/1047/2741.htm)
 
 [截止：7.12] [中国科学院重庆绿色智能技术研究院优秀大学生夏令营活动方案](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202405/t20240527_7173191.html)
@@ -92,6 +96,8 @@
 [截止：6.30] [中国科学技术大学苏州高等研究院夏令营报名通知](https://sz.ustc.edu.cn/xwgg_show/1574.html)
 
 [截止：6.30] [中国科学技术大学科学岛大学生夏令营报名通知（含环光学院）](https://m.xly.ustc.edu.cn/news.php?newsid=1003)
+
+[截止：6.30] [中国科学技术大学火灾科学国家重点实验室第二届安全科技夏令营通知](https://xly.ustc.edu.cn/news.php?newsid=1010)
 
 [截止：6.30] [中国科学技术大学网络空间与信息安全夏令营报名通知](https://cybersec.ustc.edu.cn/2024/0527/c23826a642029/page.htm)
 
@@ -199,6 +205,8 @@
 
 [[截止：6.20] [同济大学上海自主智能无人系统科学中心2024年优秀学生暑期学校活动通知](https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm)
 
+[[截止：6.20] [吉林大学人工智能学院关于举办2024年优秀大学生夏令营的通知](http://sai.jlu.edu.cn/info/1065/4700.htm)
+
 [[截止：6.20] [西安交通大学人居环境与建筑工程学院 2024年（第八届）全国优秀大学生夏令营通知](https://hsce.xjtu.edu.cn/info/1014/12698.htm)
 
 [[截止：6.20] [南京大学软件学院2024年优秀大学生夏令营通知](https://software.nju.edu.cn//tzgg/20240528/i267245.html)
@@ -304,6 +312,8 @@
 [截止：6.16] [清华大学深圳国际研究生院2024年数据与信息研究院电子与通信工程项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2024/0521/c120a94526/page.htm)
 
 [截止：6.16] [清华SIGS 2024年数据与信息研究院集成电路与系统项目优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/bas_OqOx905A5xzH2n7PFQ)
+
+[截止：6.16] [清华大学生物医学工程夏令营](https://mp.weixin.qq.com/s/lAjIYbjMbJK3N3pq9YBaQQ)
 
 [截止：6.16] [上海交通大学密西根学院2025年研究生招生夏令营选拔活动通知](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
@@ -440,6 +450,8 @@
 [截止：6.10] [吉林大学软件学院2024年优秀大学生暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/7193.htm)
 
 [截止：6.10] [吉林大学生物与农业工程学院2024年全国优秀大学生夏令营通知](https://cbae.jlu.edu.cn/info/1076/10145.htm)
+
+[截止：6.10] [湖北文理学院2025年电子信息硕士研究生招生夏令营通知](http://jsjxy.hbuas.edu.cn/info/1070/6404.htm)
 
 [截止：6.9] [西南大学心理学与脑科学2024年优秀大学生夏令营通知](http://psy.swu.edu.cn/info/1085/3736.htm)
 
