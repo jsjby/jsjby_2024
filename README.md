@@ -13,29 +13,17 @@
 
 :muscle: 大家帮忙点个赞，觉得有用的话，分享给身边的同学哈！ 
 
-## 夏令营链接
+## 单校夏令营链接
 
 [截止：暂无] [天津大学2025级研究生招生暑期夏令营开营](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
 [截止：暂无] [重庆大学2025年接收推免预报名公告](https://yz.cqu.edu.cn/news/2024-06/2161.html)
 
-[截止：暂无] [电子科技大学航空航天学院“空天技术”2024年暑期夏令营通知](https://www.iaa.uestc.edu.cn/info/1143/5761.htm)
-
 [截止：暂无] [南开大学2025级研究生招生暑期夏令营开营](https://yzb.nankai.edu.cn/2024/0607/c5508a545190/page.htm)
-
-[截止：暂无] [南开大学软件学院接收应届本科生推荐免试为研究生的条件](https://cs.nankai.edu.cn/info/1042/3695.htm)
 
 [截止：暂无] [电子科技大学2024年全国优秀大学生夏令营活动通知](https://yz.uestc.edu.cn/info/1064/5074.htm)
 
-[截止：暂无] [中国科学技术大学自动化系2024年研招夏令营公告](https://auto.ustc.edu.cn/2024/0603/c26085a642769/page.htm)
-
-[截止：暂无] [中国科学技术大学电子工程与信息科学系2024年研招夏令营公告](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
-
-[截止：暂无] [西安交通大学电信学部-网络空间安全学院 2024年（第六届）全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
-
-[截止：暂无] [中国科学院合肥物质科学研究院第十一届科学岛优秀大学生夏令营报名预通知](https://mp.weixin.qq.com/s/EvrdKl_IsIxkFH2D99BEnQ)
-
-[截止：暂无] [中国科学院大学人工智能学院2025年接收推荐免试硕士（含直博生）研究生招生公告](https://ai.ucas.ac.cn/index.php/zh-cn/tzgg/7313-2025)
+[截止：暂无] [南京大学2024年全国优秀大学生夏令营通知信息汇总（持续更新）](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
 [截止：暂无] [中南大学2024年优秀大学生暑期夏令营”活动的通知](https://mp.weixin.qq.com/s/L7whd7YB2zBFzVaIbF9XEg)
 
@@ -73,13 +61,29 @@
 
 [截止：暂无] [北京语言大学2024年全国优秀大学生夏令营通知信息汇总（持续更新）](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13250_1170151.html)
 
-[截止：暂无] [中国科学院国家授时中心2024“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/hff4Sx3VGWW2Z89oCYr-ig)
-
 [截止：暂无] [南方科技大学2024年全国优秀大学生夏令营活动通知](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
 
-[截止：暂无] [浙江大学医学中心全国优秀大学生参加夏令营](https://mp.weixin.qq.com/s/WRHbLv5E39W54gYwWT4-TA)
+## 夏令营链接
 
-[截止：暂无] [南京大学2024年全国优秀大学生夏令营通知信息汇总（持续更新）](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
+[截止：暂无] [山东大学空间科学与物理学院2024年未来研究生暑期夏令营活动](https://apd.wh.sdu.edu.cn/info/1334/16330.htm)
+
+[截止：暂无] [电子科技大学航空航天学院“空天技术”2024年暑期夏令营通知](https://www.iaa.uestc.edu.cn/info/1143/5761.htm)
+
+[截止：暂无] [南开大学软件学院接收应届本科生推荐免试为研究生的条件](https://cs.nankai.edu.cn/info/1042/3695.htm)
+
+[截止：暂无] [中国科学技术大学自动化系2024年研招夏令营公告](https://auto.ustc.edu.cn/2024/0603/c26085a642769/page.htm)
+
+[截止：暂无] [中国科学技术大学电子工程与信息科学系2024年研招夏令营公告](https://eeis.ustc.edu.cn/2024/0603/c2702a642819/page.htm)
+
+[截止：暂无] [西安交通大学电信学部-网络空间安全学院 2024年（第六届）全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1932.htm)
+
+[截止：暂无] [中国科学院合肥物质科学研究院第十一届科学岛优秀大学生夏令营报名预通知](https://mp.weixin.qq.com/s/EvrdKl_IsIxkFH2D99BEnQ)
+
+[截止：暂无] [中国科学院大学人工智能学院2025年接收推荐免试硕士（含直博生）研究生招生公告](https://ai.ucas.ac.cn/index.php/zh-cn/tzgg/7313-2025)
+
+[截止：暂无] [中国科学院国家授时中心2024“时间之旅”夏令营招募通知](https://mp.weixin.qq.com/s/hff4Sx3VGWW2Z89oCYr-ig)
+
+[截止：暂无] [浙江大学医学中心全国优秀大学生参加夏令营](https://mp.weixin.qq.com/s/WRHbLv5E39W54gYwWT4-TA)
 
 [截止：暂无] [中国科学院微小卫星创新研究院2025年招生简章](https://mp.weixin.qq.com/s/up6icXQZgv_NV1Yzr_Rlqg)
 
@@ -185,6 +189,12 @@
 
 [截止：6.26] [重庆大学化学化工学院2024年全国优秀大学生暑期夏令营招生](https://hgxy.cqu.edu.cn/info/1158/7043.htm)
 
+[截止：6.26] [中山大学航空航天学院2024年优秀大学生夏令营通知](https://saa.sysu.edu.cn/article/645?nPc3zErtSS1t=1717856839779)
+
+[截止：6.26] [中山大学海洋工程与技术学院关于举办“2024年全国优秀大学生夏令营”活动的通知](https://mp.weixin.qq.com/s/BQU-RDnUpRsP8L6AfD39CQ)
+
+[截止：6.25] [中山大学计算机学院2024年优秀大学生夏令营活动报名通知](https://cse.sysu.edu.cn/content/7106?nPc3zErtSS1t=1717856851023)
+
 [截止：6.25] [北京大学新材料学院2024年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)
 
 [截止：6.25] [北京师范大学地理科学学部优秀大学生系列夏令营——"遥感科学与技术" "地图学与地理信息系统" 学科夏令营报名通知](https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html)
@@ -210,6 +220,8 @@
 [截止：6.25] [中国科学院新疆理化所“2023走进中科院，看大美之疆”大学生夏令营报名通知](http://www.xjipc.cas.cn/yjs/tzgg/202305/t20230516_6755162.html)
 
 [截止：6.25] [中国科学院海洋研究所海洋科学2024年暑期夏令营报名通知](http://www.qdio.ac.cn/yjs/yjsnotice/202405/t20240524_786258.html)
+
+[截止：6.25] [中国科学院国家空间科学中心关于举办2024年全国优秀大学生夏令营的通知](https://www.ucas.edu.cn/tz/c0493e15dd2446b88f5c8f8bf447f021.htm)
 
 [截止：6.25] [中国科学院大学杭州高等研究院药物科学与技术学院2024年全国优秀大学生夏令营活动报名通知](http://hias.ucas.ac.cn/ywkxyjsxy/info/1065/1977.htm)
 
@@ -246,6 +258,8 @@
 [截止：6.23] [上海科技大学信息科学与技术学院2024年优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm)
 
 [截止：6.23] [上海科技大学信息科学与技术学院2024年电子信息专业学位优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/xYHhYGcxTKjTVxEGjLl8nQ)
+
+[截止：6.23] [华中师范大学人工智能教育学部“人工智能教育应用”暑期夏令营招员通知](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
 
 [截止：6.22] [浙江大学生物系统工程与食品科学学院第十五届全国农业工程优秀大学生西湖夏令营活动通知](http://www.caefs.zju.edu.cn/2024/0528/c68774a2924166/page.htm)
 
@@ -569,7 +583,7 @@
 
 [截止：6.9] [西南大学心理学与脑科学2024年优秀大学生夏令营通知](http://psy.swu.edu.cn/info/1085/3736.htm)
 
-[截止：6.8] [上海交通大学人工智能学院2025年夏令营活动办法](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+~~[截止：6.8] [上海交通大学人工智能学院2025年夏令营活动办法](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)~~
 
 ~~[截止：6.7] [吉林大学计算机科学与技术学院2024年优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1091/19265.htm)~~
 
