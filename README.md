@@ -559,31 +559,31 @@
 
 [截止：6.11] [北京大学生物医学前沿创新中心2024年优秀大学生夏令营的通知](https://biopic.pku.edu.cn/xspy/2024xly/)
 
-[截止：6.10] [北京大学工学院优秀大学生暑期夏令营通知](https://www.coe.pku.edu.cn/graduate/notice/12781.html)
+~~[截止：6.10] [北京大学工学院优秀大学生暑期夏令营通知](https://www.coe.pku.edu.cn/graduate/notice/12781.html)~~
 
-[截止：6.10] [北京大学集成电路学院关于举办2024年优秀大学生夏令营的通知](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)
+~~[截止：6.10] [北京大学集成电路学院关于举办2024年优秀大学生夏令营的通知](https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm)~~
 
-[截止：6.10] [北京协和医学院医学信息研究所2024年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/osh_ywpQmUYVesWWW3pFGQ)
+~~[截止：6.10] [北京协和医学院医学信息研究所2024年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/osh_ywpQmUYVesWWW3pFGQ)~~
 
-[截止：6.10] [南方医科大学生物医学工程学院2024年优秀大学生夏令营通知](http://portal.smu.edu.cn/swyxgcxy/info/1139/10387.htm)
+~~[截止：6.10] [南方医科大学生物医学工程学院2024年优秀大学生夏令营通知](http://portal.smu.edu.cn/swyxgcxy/info/1139/10387.htm)~~
 
-[截止：6.10] [西安交通大学电信学部计算机科学与技术学院全国优秀大学生夏令营通知](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)
+~~[截止：6.10] [西安交通大学电信学部计算机科学与技术学院全国优秀大学生夏令营通知](http://www.cs.xjtu.edu.cn/info/1233/3380.htm)~~
 
-[截止：6.10] [华东师范大学统计学院2024年“优秀大学生夏令营”活动公告](https://stat.ecnu.edu.cn/_t3433/14/73/c9708a595059/page.htm)
+~~[截止：6.10] [华东师范大学统计学院2024年“优秀大学生夏令营”活动公告](https://stat.ecnu.edu.cn/_t3433/14/73/c9708a595059/page.htm)~~
 
-[截止：6.10] [清华大学化学工程系2024年全国优秀大学生化工与新材料夏令营通知](https://www.chemeng.tsinghua.edu.cn/info/1038/3862.htm)
+~~[截止：6.10] [清华大学化学工程系2024年全国优秀大学生化工与新材料夏令营通知](https://www.chemeng.tsinghua.edu.cn/info/1038/3862.htm)~~
 
-[截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)
+~~[截止：6.10] [西湖大学工学院2024年夏令营公告](https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml)~~
 
-[截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
+~~[截止：6.10] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营”的通知](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)~~
 
-[截止：6.10] [浙江大学生物医学工程与仪器科学学院2024年优秀大学生夏令营活动通知](http://www.cbeis.zju.edu.cn/2024/0521/c63837a2920257/page.htm)
+~~[截止：6.10] [浙江大学生物医学工程与仪器科学学院2024年优秀大学生夏令营活动通知](http://www.cbeis.zju.edu.cn/2024/0521/c63837a2920257/page.htm)~~
 
-[截止：6.10] [吉林大学软件学院2024年优秀大学生暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/7193.htm)
+~~[截止：6.10] [吉林大学软件学院2024年优秀大学生暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/7193.htm)~~
 
-[截止：6.10] [吉林大学生物与农业工程学院2024年全国优秀大学生夏令营通知](https://cbae.jlu.edu.cn/info/1076/10145.htm)
+~~[截止：6.10] [吉林大学生物与农业工程学院2024年全国优秀大学生夏令营通知](https://cbae.jlu.edu.cn/info/1076/10145.htm)~~
 
-[截止：6.10] [湖北文理学院2025年电子信息硕士研究生招生夏令营通知](http://jsjxy.hbuas.edu.cn/info/1070/6404.htm)
+~~[截止：6.10] [湖北文理学院2025年电子信息硕士研究生招生夏令营通知](http://jsjxy.hbuas.edu.cn/info/1070/6404.htm)~~
 
 ~~[截止：6.9] [西南大学心理学与脑科学2024年优秀大学生夏令营通知](http://psy.swu.edu.cn/info/1085/3736.htm)~~
 
