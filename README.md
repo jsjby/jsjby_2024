@@ -711,7 +711,7 @@
 
 ~~[截止：6.3] [清华SIGS 2024年数据与信息研究院计算机科学与技术学科优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/Mox-KHKWNts6IdnIOPVaSw)~~
 
-~~[截止：6.3] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营通知](http://yzb.hit.edu.cn/2024/0506/c8824a343961/pagem.htm)~~
+~~[截止：6.3] [浙江大学脑科学与脑医学学院2024年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s?__biz=MzI3NTA3OTY4NQ==&mid=2650263442&idx=1&sn=a1aa4b45f36ed936ec8f9fa8f800c9a3&chksm=f30958f8c47ed1ee0fb64f32c6a497c5ca7efdadb0f67eccdda6b832299f4c99fca30d03e921&token=681090656&lang=zh_CN#rd)~~
 
 ~~[截止：6.2] [南京大学人工智能学院2024年本科生开放日(夏令营)报名通知](https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm)~~
 
