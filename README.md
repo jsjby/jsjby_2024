@@ -10,6 +10,7 @@
 
 **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2024/blob/main/计算机保研介绍最新版.pdf" target="_blank">2024年计算机保研服务介绍</a>
 
+:bangbang: **需要带保研或计算机保研资料联系（咨询计算机保研）:** &nbsp; 联系微信：Jsjby-02 <br />
 
 :muscle: 大家帮忙点个赞，觉得有用的话，分享给身边的同学哈！ 
 
