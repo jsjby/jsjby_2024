@@ -466,6 +466,8 @@
 
 [截止：6.21] [中国科学院南海海洋研究所2024年“蓝色海洋”大学生夏令营活动通知](http://scsio.cas.cn/yjsjy/lhpy/xly/202405/t20240517_7164853.html)
 
+[截止：6.21] [中国科学院大学生命科学学院2024年优秀大学生夏令营报名通知](https://www.ucas.ac.cn/tz/0da1943da5d24c8ea66c18f326f70cdf.htm)
+
 [截止：6.21] [中山大学网络空间安全学院 2024年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/rc/rc02/1416009.htm?nPc3zErtSS1t=1717255179557)
 
 [截止：6.21] [中山大学测绘科学与技术学院“2024年全国优秀大学生夏令营”报名通知](https://mp.weixin.qq.com/s/yJ-HFj0I7YbyTTSNVb_IKw)
