@@ -378,6 +378,8 @@
 
 [截止：6.26] [西安交通大学国家储能平台（中心）全国优秀大学生夏令营通知](https://gjcnpt.xjtu.edu.cn/info/1058/1792.htm)
 
+[截止：6.26] [华中科技大学生命科学与技术学院2024年优秀大学生夏令营通知](https://life.hust.edu.cn/info/1855/10724.htm)
+
 [截止：6.26] [南开大学人工智能学院优秀大学生夏令营的通知](https://ai.nankai.edu.cn/info/1024/5850.htm)
 
 [截止：6.26] [东北师范大学信息科学与技术学院2024年全国优秀大学生暑期夏令营招生简章](https://ist.nenu.edu.cn/info/1157/5436.htm)
@@ -403,6 +405,8 @@
 [截止：6.25] [中国农业大学信息与电气工程学院2024年云端夏令营的通知](https://ciee.cau.edu.cn/art/2024/6/11/art_50390_1028886.html)
 
 [截止：6.25] [北京大学新材料学院2024年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/hEXEnCF3WRU-VrHEug1OQg)
+
+[截止：6.25] [北京邮电大学网络空间安全学院2024年全国优秀大学生夏令营招生通知](https://scss.bupt.edu.cn/info/1110/5595.htm)
 
 [截止：6.25] [北京航空航天大学软件学院招收2025年研究生全国优秀大学生夏令营活动方案](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11312)
 
