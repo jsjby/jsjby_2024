@@ -496,8 +496,6 @@
 
 [截止：6.23] [中山大学医学院2024年生物医学优秀大学生夏令营报名通知](https://szmed.sysu.edu.cn/zh-hans/article/2746?nPc3zErtSS1t=1718381751716)
 
-[截止：6.23] [中国人民大学统计与大数据研究院 “2024年全国优秀大学生暑期研学营”公告](http://isbd.ruc.edu.cn/xwgg/tzggAnnouncement/57062ca23b8f42d8a737b23e99a8b99a.htm)
-
 [截止：6.23] [中国农业大学动物科学技术学院2024年第九届优秀大学生暑期夏令营的通知](https://cast1.cau.edu.cn/art/2024/6/5/art_44406_1027495.html)
 
 [截止：6.23] [武汉大学遥感信息工程学院2024年优秀大学生夏令营活动的通知](https://rsgis.whu.edu.cn/info/1083/97170.htm)
@@ -693,6 +691,8 @@
 ~~[截止：6.17] [东北师范大学物理学院2024年优秀大学生夏令营招生简章](https://www.phy.nenu.edu.cn/info/1051/3893.htm)~~
 
 ~~[截止：6.17] [武汉大学电子信息学院2024年优秀大学生夏令营实施方案](https://mp.weixin.qq.com/s/GmNPODHXd995nWpQbAv0sQ)~~
+
+~~[截止：6.17] [中国人民大学统计与大数据研究院 “2024年全国优秀大学生暑期研学营”公告](http://isbd.ruc.edu.cn/xwgg/tzggAnnouncement/57062ca23b8f42d8a737b23e99a8b99a.htm)~~
 
 ~~[截止：6.16] [南科大系统设计与智能制造学院2024年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA)~~
 
