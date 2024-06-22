@@ -92,6 +92,8 @@
 
 [截止：暂无] [东华大学关于举办2024年全国优秀大学生夏令营专项研究生选拔活动的公告](https://mp.weixin.qq.com/s/AcrmpIgylBIIvtRHR6iBGA)
 
+[截止：暂无] [江西农业大学2024年优秀大学生夏令营活动专栏](https://yanjiusheng.jxau.edu.cn/13/19/c1035a135961/page.htm)
+
 [截止：暂无] [武汉理工大学2024年全国优秀大学生暑期夏令营报名开启](https://mp.weixin.qq.com/s/15I27f1O_RICNXm_hiMHHA)
 
 [截止：暂无] [北京工业大学全国优秀大学生夏令营活动的通知](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
@@ -197,6 +199,8 @@
 [截止：7.5] [西北工业大学民航学院2024年全国优秀大学生暑期夏令营工作方案](https://minhang.nwpu.edu.cn/info/1150/10063.htm)
 
 [截止：7.5] [深圳大学微众银行金融科技学院2025年“数字金融”暑期学校](https://mp.weixin.qq.com/s/slDYOszjqMu6LiAivo-NvQ)
+
+[截止：7.5] [浙江工业大学信息工程学院2024年优秀大学生夏令营活动安排](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
 
 [截止：7.5] [国防科技大学电子科学学院2024年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13805)
 
@@ -309,6 +313,8 @@
 [截止：6.30] [山东大学机电与信息工程学院2024年全国优秀大学生暑期夏令营招生](https://ie.wh.sdu.edu.cn/info/1007/14342.htm)
 
 [截止：6.30] [四川大学华西基础医学与法医学院关于举办2024年优秀大学生暑期夏令营的通知](https://jcfy.scu.edu.cn/info/1020/4826.htm)
+
+[截止：6.30] [北京外国语大学人工智能与人类语言重点实验室2024年夏令营招生简章](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)
 
 [截止：6.30] [北京电子科技学院关于举办2024年全国优秀大学生暑期夏令营暨校园开放日活动的通知](https://www.besti.edu.cn/221/2094.html)
 
@@ -448,6 +454,8 @@
 
 [截止：6.25] [同济大学测绘与地理信息学院优秀学生暑期学校活动通知](https://celiang.tongji.edu.cn/info/1205/3871.htm)
 
+[截止：6.25] [天津大学智能与计算学部国优计划”专项研究生招生夏令营活动通知](https://cic.tju.edu.cn/info/1041/4979.htm)
+
 [截止：6.25] [西北工业大学数学与统计学院2024年全国优秀大学生暑期夏令营工作方案](https://math.nwpu.edu.cn/info/1051/24697.htm)
 
 [截止：6.25] [西北工业大学无人系统技术研究院2024年全国优秀大学生暑期夏令营工作方案](https://wurenxitong.nwpu.edu.cn/info/1108/7238.htm)
@@ -580,7 +588,7 @@
 
 [截止：6.23] [华中师范大学人工智能教育学部“人工智能教育应用”暑期夏令营招员通知](https://foaie.ccnu.edu.cn/info/1008/7070.htm)
 
-[截止：6.22] [浙江大学生物系统工程与食品科学学院第十五届全国农业工程优秀大学生西湖夏令营活动通知](http://www.caefs.zju.edu.cn/2024/0528/c68774a2924166/page.htm)
+~~[截止：6.22] [浙江大学生物系统工程与食品科学学院第十五届全国农业工程优秀大学生西湖夏令营活动通知](http://www.caefs.zju.edu.cn/2024/0528/c68774a2924166/page.htm)~~
 
 ~~[截止：6.21] [中国科学院上海技术物理研究所“红外筑梦”优秀大学生暑期夏令营报名通知](https://sitp.cas.cn/yjs/zsxx/ssszs/202405/t20240513_7159190.html)~~
 
