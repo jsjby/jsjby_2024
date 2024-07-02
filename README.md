@@ -214,6 +214,8 @@
 
 [截止：7.14] [武汉大学湖北国家应用数学中心关于举办2024年全国优秀大学生夏令营活动的通知](https://mp.weixin.qq.com/s/BlfXsxH977QmQ2wXR2FJCg)
 
+[截止：7.14] [鹏城实验室2024鹏城博士夏令营启动报名](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+
 [截止：7.14] [航天二院全国优秀大学生夏令营报名启动](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
 
 [截止：7.12] [中国科学院重庆绿色智能技术研究院优秀大学生夏令营活动方案](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202405/t20240527_7173191.html)
@@ -284,11 +286,11 @@
 
 [截止：7.3] [深圳大学电子与信息工程学院优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
 
-[截止：7.2] [中国地质大学（北京）数理学院 2024年全国优秀大学生暑期云夏令营通知](https://ss.cugb.edu.cn/c/2024-06-13/805908.shtml)
+~~[截止：7.2] [中国地质大学（北京）数理学院 2024年全国优秀大学生暑期云夏令营通知](https://ss.cugb.edu.cn/c/2024-06-13/805908.shtml)~~
 
-[截止：7.2] [南京理工大学网络空间安全学院2024年“先进密码技术与智能数据安全”暑期学校活动公告](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)
+~~[截止：7.2] [南京理工大学网络空间安全学院2024年“先进密码技术与智能数据安全”暑期学校活动公告](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
-[截止：7.2] [河海大学信息科学与工程学院2024年全国优秀大学生夏令营活动有关安排的通知](https://ise.hhu.edu.cn/2024/0626/c1432a285516/page.htm)
+~~[截止：7.2] [河海大学信息科学与工程学院2024年全国优秀大学生夏令营活动有关安排的通知](https://ise.hhu.edu.cn/2024/0626/c1432a285516/page.htm)~~
 
 ~~[截止：7.1] [河海大学人工智能与自动化学院2024年全国优秀大学生夏令营活动有关安排的通知](https://ai.hhu.edu.cn/2024/0625/c15659a285496/page.htm)~~
 
