@@ -184,6 +184,8 @@
 
 [截止：8.5] [中国科学院空间应用工程与技术中心2024年“太空应用”夏令营招募通知](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
 
+[截止：8.5] [东南大学生物科学与医学工程学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://bme.seu.edu.cn/2024/0702/c480a496237/page.htm)
+
 [截止：8.1] [东南大学计算机科学与工程学院、软件学院 2024年全国优秀大学生夏令营活动及推免生预选拔工作通知](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)
 
 [截止：8.1] [东南大学自动化学院2024年全国优秀大学生夏令营活动及推免生预选拔工作通知](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
@@ -199,6 +201,8 @@
 [截止：7.25] [浙江大学控制学院第十三届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)
 
 [截止：7.20] [南理工智能计算成像实验室（SCILab）2025年接收推荐免试硕士（含直博生）研究生招生公告](https://scilaboratory.com/h-nd-655.html)
+
+[截止：7.20] [苏州未来科学与工程学院2024年“全国优秀本科生暑期夏令营”招生简章](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
 
 [截止：7.18] [中国矿业大学（北京）2024年矿物加工工程系优秀本科生夏令营活动通知](https://scee.cumtb.edu.cn/info/1083/3581.htm)
 
@@ -230,7 +234,11 @@
 
 [截止：7.11] [四川大学医学前沿科学中心关于举办2024年全国优秀大学生暑期夏令营的通知](https://yjs.cd120.com/contents/412/4461.html)
 
+[截止：7.11] [中国农业科学院农业信息研究所2024年优秀大学生暑期夏令营通知](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)
+
 [截止：7.10] [西安交通大学未来技术学院2024年（第四届）优秀大学生科创夏令营](https://wljsxy.xjtu.edu.cn/info/1013/2414.htm)
+
+[截止：7.10] [华中科技大学机械学院关于举办2024年“智能制造”学术夏令营的通知](https://mse.hust.edu.cn/info/1181/15213.htm)
 
 [截止：7.10] [南京邮电大学自动化学院、人工智能学院关于举办2024年全国优秀大学生暑期夏令营的通知](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
 
@@ -268,15 +276,15 @@
 
 [截止：7.5] [国防科技大学电子科学学院2024年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13805)
 
-[截止：7.4] [华中科技大学集成电路学院2024年“全国优秀大学生夏令营”活动通知](https://ic.hust.edu.cn/info/1242/3460.htm)
+~~[截止：7.4] [华中科技大学集成电路学院2024年“全国优秀大学生夏令营”活动通知](https://ic.hust.edu.cn/info/1242/3460.htm)~~
 
-[截止：7.4] [华中科技大学计算机科学与技术学院招收2024暑期实习生计划](https://cs.hust.edu.cn/info/1439/4088.htm)
+~~[截止：7.4] [华中科技大学计算机科学与技术学院招收2024暑期实习生计划](https://cs.hust.edu.cn/info/1439/4088.htm)~~
 
-[截止：7.4] [重庆大学大数据与软件学院2024年优秀大学生学术夏令营通知](https://mp.weixin.qq.com/s/12uN04ZHLYiDC7kmP7idSw?poc_token=HFdpgWajlBiMUNR4bn03553lSFEjUh98EzZkvPh7)
+~~[截止：7.4] [重庆大学大数据与软件学院2024年优秀大学生学术夏令营通知](https://mp.weixin.qq.com/s/12uN04ZHLYiDC7kmP7idSw?poc_token=HFdpgWajlBiMUNR4bn03553lSFEjUh98EzZkvPh7)~~
 
-[截止：7.4] [浙江工业大学管理学院2024年优秀大学生暑期夏令营活动通知](http://www.som.zjut.edu.cn/jsp/news.jsp?neId=25008)
+~~[截止：7.4] [浙江工业大学管理学院2024年优秀大学生暑期夏令营活动通知](http://www.som.zjut.edu.cn/jsp/news.jsp?neId=25008)~~
 
-[截止：7.4] [华北电力大学控制与计算机工程学院关于举办2024年“智慧控计”优秀大学生夏令营活动的通知](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)
+~~[截止：7.4] [华北电力大学控制与计算机工程学院关于举办2024年“智慧控计”优秀大学生夏令营活动的通知](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)
 
 ~~[截止：7.3] [国防科技大学智能科学学院2024年优秀大学生夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)~~
 
