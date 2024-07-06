@@ -176,6 +176,8 @@
 
 [截止：9.18] [南京航空航天大学国际前沿科学研究院2025年招收推免生预报名通知](https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm)
 
+[截止：9.11（考试前一周）] [苏州大学计算机科学和技术学院（软件学院）2025年推荐免试研究生（含直博生）预选拔通知](https://scst.suda.edu.cn/d4/c2/c29555a578754/page.htm)
+
 [截止：8.16] [同济大学2025年“国优计划”研究生招生报名通知(推免选拔)](https://yz.tongji.edu.cn/info/1010/3518.htm)
 
 [截止：8.15] [东南大学集成电路学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
@@ -1234,6 +1236,8 @@
 
 [截止：暂无] [上海人工智能实验室浦视团队联培博士(2025)招生正式启动](https://mp.weixin.qq.com/s/iNw-JVuakJ8q-eLWCYUgVA)
 
+[截止：N/A] [东南大学PALM实验室招收 2025年秋季入学博士及硕士研究生](https://palm.seu.edu.cn/application.html)
+
 [截止：暂无] [清华大学航空宇航电子系统实验室2024年夏令营招生](https://www.hy.tsinghua.edu.cn/info/1203/3067.htm)
 
 [截止：暂无] [中国科学院软件研究所中文信息处理实验室推免招生说明](http://www.icip.org.cn/zh/2024/04/28/zhaosheng2024/)
@@ -1248,11 +1252,13 @@
 
 [截止：暂无] [上海交通大学人工智能学院张林峰课题组招收2025届硕士于博士研究生](http://www.zhanglinfeng.tech/)
 
+[截止：暂无] [中国地质大学（北京）公书慧老师课题组招收智慧交通、地理人工智能方向硕士研究生](https://mp.weixin.qq.com/s/QdDXY71BdEvw6EgKNHBZqQ)
+
 [截止：暂无] [中国人民大学高瓴人工智能学院AI-Engine实验室招生](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
 [截止：7.9] [复旦大学管理学院2025级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/_cBEVWI968GqESxxpsicQA)
 
-[截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)
+~~[截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)~~
 
 ~~[截止：5.8] [中国科学院古脊椎动物与古人类研究所分子古生物学实验室2024年（付巧妹研究员课题组）](http://www.ivpp.ac.cn/tzgg/202403/t20240321_7047807.html)~~
 
