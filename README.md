@@ -114,13 +114,13 @@
 
 [截止：暂无] [北京语言大学2024年全国优秀大学生夏令营通知信息汇总（持续更新）](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13250_1170151.html)
 
-[截止：7.5] [航天工程大学2024年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)
+~~[截止：7.5] [航天工程大学2024年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)~~
 
-[截止：7.4] [火箭军工程大学2024年全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/X-wJKYOVX982AlS4Ym0GFA)
+~~[截止：7.4] [火箭军工程大学2024年全国优秀大学生夏令营活动报名通知](https://mp.weixin.qq.com/s/X-wJKYOVX982AlS4Ym0GFA)~~
 
-[截止：7.2] [海军工程大学优秀大学生夏令营火热报名中](https://mp.weixin.qq.com/s/SOmT4SSPJQATn3O8pbTMkA)
+~~[截止：7.2] [海军工程大学优秀大学生夏令营火热报名中](https://mp.weixin.qq.com/s/SOmT4SSPJQATn3O8pbTMkA)~~
 
-[截止：7.1] [石油工程学院 2024 年全国优秀大学生夏令营活动通知](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)
+~~[截止：7.1] [石油工程学院 2024 年全国优秀大学生夏令营活动通知](https://pe.upc.edu.cn/2024/0614/c20312a434122/page.htm)~~
 
 [截止：暂无] [黑龙江大学2024年优秀大学生夏令营活动相关学院实施细则的通知](https://yjsy.hlju.edu.cn/info/1009/9670.htm)
 
@@ -214,6 +214,8 @@
 
 [截止：7.18] [中国矿业大学（北京）2024年矿物加工工程系优秀本科生夏令营活动通知](https://scee.cumtb.edu.cn/info/1083/3581.htm)
 
+[截止：7.17] [南京邮电大学通信与信息工程学院2024年全国优秀大学生暑期夏令营（线上）的通知](http://scie.njupt.edu.cn/2024/0707/c2890a267588/page.htm)
+
 [截止：7.16] [苏州大学电子信息学院2024年优秀本科生夏令营公告](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)
 
 [截止：7.15] [中国科学院大学空天信息创新研究院2024年度全国大学生“空天信息技术”暑期学校招生简章](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)
@@ -237,6 +239,8 @@
 [截止：7.13] [哈尔滨工程大学信息与通信工程学院 关于开展2024年大学生暑期夏令营活动的通知](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)
 
 [截止：7.12] [中国科学院重庆绿色智能技术研究院优秀大学生夏令营活动方案](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202405/t20240527_7173191.html)
+
+[截止：7.12] [南京邮电大学现代邮政学院2024年全国优秀 大学生暑期夏令营（线上）的通知](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
 
 [截止：7.12] [北京科技大学计算机与通信工程学院关于举办2024年优秀大学生学术夏令营的通知](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
 
@@ -266,7 +270,7 @@
 
 [截止：7.8] [深圳大学医学部生物医学工程学院“夏令营”开始招生](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
 
-[截止：7.7] [北京工业大学信息科学技术学院|“研随信动”2024年全国优秀大学生夏令营活动方案](https://mp.weixin.qq.com/s/ACtEC-v1Q1tK8JHnS3dVTg)
+~~[截止：7.7] [北京工业大学信息科学技术学院|“研随信动”2024年全国优秀大学生夏令营活动方案](https://mp.weixin.qq.com/s/ACtEC-v1Q1tK8JHnS3dVTg)~~
 
 ~~[截止：7.5] [北京语言大学信息科学学院语言智能研究院举办2024年全国优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w)~~
 
