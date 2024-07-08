@@ -204,6 +204,8 @@
 
 [截止：7.31] [上海第二工业大学计算机与信息工程学院2024年全国优秀大学生夏令营开始招生](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)
 
+[截止：7.31] [南京邮电大学 计算机学院、软件学院、网络空间安全学院暑期学校招生简章](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)
+
 [截止：7.30] [浙江农林大学数学与计算机科学学院2024年优秀大学生夏令营活动通知](https://yjszs.zafu.edu.cn/info/1022/2514.htm)
 
 [截止：7.25] [浙江大学控制学院第十三届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)
@@ -266,11 +268,11 @@
 
 [截止：7.9] [北京语言大学信息科学学院暨语言智能研究院全国优秀大学生夏令营](https://yjsy.blcu.edu.cn/art/2024/5/17/art_13223_1170150.html)
 
-[截止：7.8] [北京交通大学计算机科学与技术学院全国优秀大学生暑期夏令营通知](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_tzgg/202312184.htm)
+~~[截止：7.8] [北京交通大学计算机科学与技术学院全国优秀大学生暑期夏令营通知](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_tzgg/202312184.htm)~~
 
-[截止：7.8] [大连海事大学信息科学技术学院全国优秀大学生夏令营](https://www.dlmu.edu.cn/info/1060/76078.htm)
+~~[截止：7.8] [大连海事大学信息科学技术学院全国优秀大学生夏令营](https://www.dlmu.edu.cn/info/1060/76078.htm)~~
 
-[截止：7.8] [深圳大学医学部生物医学工程学院“夏令营”开始招生](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
+~~[截止：7.8] [深圳大学医学部生物医学工程学院“夏令营”开始招生](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)~~
 
 ~~[截止：7.7] [北京工业大学信息科学技术学院|“研随信动”2024年全国优秀大学生夏令营活动方案](https://mp.weixin.qq.com/s/ACtEC-v1Q1tK8JHnS3dVTg)~~
 
