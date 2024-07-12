@@ -261,15 +261,15 @@
 
 [截止：7.13] [哈尔滨工程大学信息与通信工程学院 关于开展2024年大学生暑期夏令营活动的通知](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)
 
-[截止：7.12] [中国科学院重庆绿色智能技术研究院优秀大学生夏令营活动方案](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202405/t20240527_7173191.html)
-
-[截止：7.12] [南京邮电大学现代邮政学院2024年全国优秀 大学生暑期夏令营（线上）的通知](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)
-
-[截止：7.12] [西南交通大学唐山研究院2024年优秀大学生云上学术夏令营活动](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)
-
-[截止：7.12] [北京科技大学计算机与通信工程学院关于举办2024年优秀大学生学术夏令营的通知](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
-
 [截止：7月中] [上海交通大学溥渊未来技术学院2025年研究生招生夏令营活动通知](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)
+
+~~[截止：7.12] [中国科学院重庆绿色智能技术研究院优秀大学生夏令营活动方案](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202405/t20240527_7173191.html)~~
+
+~~[截止：7.12] [南京邮电大学现代邮政学院2024年全国优秀 大学生暑期夏令营（线上）的通知](https://mp.weixin.qq.com/s/Cwbwv0pk_egqYb3A2aD-Dg)~~
+
+~~[截止：7.12] [西南交通大学唐山研究院2024年优秀大学生云上学术夏令营活动](https://mp.weixin.qq.com/s/p4UZhEv6JCrycew0yE4z2g)~~
+
+~~[截止：7.12] [北京科技大学计算机与通信工程学院关于举办2024年优秀大学生学术夏令营的通知](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
 ~~[截止：7.11] [四川大学医学前沿科学中心关于举办2024年全国优秀大学生暑期夏令营的通知](https://yjs.cd120.com/contents/412/4461.html)~~
 
