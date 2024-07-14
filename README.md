@@ -126,6 +126,8 @@
 
 [截止：暂无] [南方科技大学2024年全国优秀大学生夏令营活动通知](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
 
+[截止：暂无] [上海航天技术研究院硕士研究生招生简章发布](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
+
 [截止：7.28] [中国电力科学研究院2024年优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
 
 ~~[截止：7.5] [航天工程大学2024年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)~~
@@ -225,6 +227,8 @@
 
 [截止：7.25] [浙江大学控制学院第十三届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)
 
+[截止：7.22] [中国林科院资源信息研究所2024年“优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
+
 [截止：7.20] [南理工智能计算成像实验室（SCILab）2025年接收推荐免试硕士（含直博生）研究生招生公告](https://scilaboratory.com/h-nd-655.html)
 
 [截止：7.20] [苏州未来科学与工程学院2024年“全国优秀本科生暑期夏令营”招生简章](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
@@ -253,15 +257,15 @@
 
 [截止：7.15] [深圳大学-光明实验室全国优秀大学生人工智能夏令营（2025级）正在报名](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
 
-[截止：7.14] [深圳大学大数据系统计算技术国家工程实验室2024年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
+~~[截止：7.14] [深圳大学大数据系统计算技术国家工程实验室2024年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
-[截止：7.14] [武汉大学湖北国家应用数学中心关于举办2024年全国优秀大学生夏令营活动的通知](https://mp.weixin.qq.com/s/BlfXsxH977QmQ2wXR2FJCg)
+~~[截止：7.14] [武汉大学湖北国家应用数学中心关于举办2024年全国优秀大学生夏令营活动的通知](https://mp.weixin.qq.com/s/BlfXsxH977QmQ2wXR2FJCg)~~
 
-[截止：7.14] [鹏城实验室2024鹏城博士夏令营启动报名](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+~~[截止：7.14] [鹏城实验室2024鹏城博士夏令营启动报名](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)~~
 
-[截止：7.14] [航天二院全国优秀大学生夏令营报名启动](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+~~[截止：7.14] [航天二院全国优秀大学生夏令营报名启动](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)~~
 
-[截止：7月中] [上海交通大学溥渊未来技术学院2025年研究生招生夏令营活动通知](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)
+~~[截止：7月中] [上海交通大学溥渊未来技术学院2025年研究生招生夏令营活动通知](https://mp.weixin.qq.com/s/8NyUWzqrmG6579I5QPTDng)~~
 
 ~~[截止：7.13] [哈尔滨工程大学信息与通信工程学院 关于开展2024年大学生暑期夏令营活动的通知](https://icec.hrbeu.edu.cn/2024/0703/c4658a327195/page.htm)~~
 
@@ -1289,7 +1293,7 @@
 
 [截止：暂无] [中国人民大学高瓴人工智能学院AI-Engine实验室招生](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
 
-[截止：7.9] [复旦大学管理学院2025级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/_cBEVWI968GqESxxpsicQA)
+~~[截止：7.9] [复旦大学管理学院2025级硕博连读项目推免招生 “博思营”系列活动通知](https://mp.weixin.qq.com/s/_cBEVWI968GqESxxpsicQA)~~
 
 ~~[截止：6.20] [中国科学院上海营养与健康研究所 2024年大学生夏令营推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=452)~~
 
