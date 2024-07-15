@@ -213,6 +213,8 @@
 
 [截止：8.1] [东南大学自动化学院2024年全国优秀大学生夏令营活动及推免生预选拔工作通知](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
+[截止：8.1] [西安建筑科技大学信息与控制工程学院关于举办2025年优秀研究生生源选拔暑期夏令营暨选拔的通知](https://yzb.xauat.edu.cn/info/1020/6405.htm)
+
 [截止：7.31] [北京邮电大学电子工程学院面向2025级研究生暑期夏令营活动安排](https://see.bupt.edu.cn/info/1047/2741.htm)
 
 [截止：7.31] [北京邮电大学信息与通信工程学院全国优秀大学生夏令营通知](https://sice.bupt.edu.cn/info/1013/2326.htm)
@@ -243,19 +245,19 @@
 
 [截止：7.16] [苏州大学电子信息学院2024年优秀本科生夏令营公告](https://dzxx.suda.edu.cn/d2/09/c8244a578057/page.htm)
 
-[截止：7.15] [中国科学院大学空天信息创新研究院2024年度全国大学生“空天信息技术”暑期学校招生简章](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)
+~~[截止：7.15] [中国科学院大学空天信息创新研究院2024年度全国大学生“空天信息技术”暑期学校招生简章](https://mp.weixin.qq.com/s/BvGBijMhubCOETXM2fZuJA)~~
 
-[截止：7.15] [中国铁道科学研究院2024年优秀大学生夏令营](https://mp.weixin.qq.com/s/GTIouQpgeAhnrhTFA4erxw)
+~~[截止：7.15] [中国铁道科学研究院2024年优秀大学生夏令营](https://mp.weixin.qq.com/s/GTIouQpgeAhnrhTFA4erxw)~~
 
-[截止：7.15] [南京大学匡亚明学院关于举办2024年“全国优秀大学生交叉学科暑期学校”的通知](https://dii.nju.edu.cn/89/f5/c11317a690677/page.htm)
+~~[截止：7.15] [南京大学匡亚明学院关于举办2024年“全国优秀大学生交叉学科暑期学校”的通知](https://dii.nju.edu.cn/89/f5/c11317a690677/page.htm)~~
 
-[截止：7.15] [南京信息工程大学人工智能学院第三届优秀大学生“元宇宙与人工智能”夏令营的通知](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)
+~~[截止：7.15] [南京信息工程大学人工智能学院第三届优秀大学生“元宇宙与人工智能”夏令营的通知](https://mp.weixin.qq.com/s/056-_tIp7hk9y2kaA9jkjQ)~~
 
-[截止：7.15] [华中科技大学武汉光电国家研究中心“全国优秀大学生暑期夏令营”报名申请正式启动](https://wnlo.hust.edu.cn/info/1178/12526.htm)
+~~[截止：7.15] [华中科技大学武汉光电国家研究中心“全国优秀大学生暑期夏令营”报名申请正式启动](https://wnlo.hust.edu.cn/info/1178/12526.htm)~~
 
-[截止：7.15] [江苏大学科技信息研究所“2024年优秀大学生线上夏令营”通知](https://lib.ujs.edu.cn/info/1131/22178.htm)
+~~[截止：7.15] [江苏大学科技信息研究所“2024年优秀大学生线上夏令营”通知](https://lib.ujs.edu.cn/info/1131/22178.htm)~~
 
-[截止：7.15] [深圳大学-光明实验室全国优秀大学生人工智能夏令营（2025级）正在报名](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
+~~[截止：7.15] [深圳大学-光明实验室全国优秀大学生人工智能夏令营（2025级）正在报名](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)~~
 
 ~~[截止：7.14] [深圳大学大数据系统计算技术国家工程实验室2024年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)~~
 
