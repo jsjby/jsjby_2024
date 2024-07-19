@@ -128,6 +128,8 @@
 
 [截止：暂无] [上海航天技术研究院硕士研究生招生简章发布](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
 
+[截止：9.20] [西北大学2025年接收推荐免试研究生预报名公告](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
+
 [截止：7.28] [中国电力科学研究院2024年优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
 
 ~~[截止：7.5] [航天工程大学2024年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/3q6w4ZCqrhNoVeqQ2upA2g)~~
@@ -199,6 +201,10 @@
 
 [截止：8.15] [东南大学集成电路学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
 
+[截止：8.12] [中国科学院沈阳自动化研究所关于举办2024年大学生暑期学校的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
+
+[截止：8.11] [山一大智能学院2024年研究生招生暑期夏令营报名启动](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
+
 [截止：8.11] [东南大学电子科学与工程学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
 
 [截止：8.8] [东南大学信息科学与工程学院2024年全国优秀大学生夏令营活动及2025级推免生预选拔工作通知](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
@@ -227,6 +233,8 @@
 
 [截止：7.30] [浙江农林大学数学与计算机科学学院2024年优秀大学生夏令营活动通知](https://yjszs.zafu.edu.cn/info/1022/2514.htm)
 
+[截止：7.28] [杭州电子科技大学通信工程学院2024年大学生夏令营活动通知](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)
+
 [截止：7.25] [浙江大学控制学院第十三届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)
 
 [截止：7.22] [中国林科院资源信息研究所2024年“优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
@@ -237,7 +245,7 @@
 
 [截止：7.20] [杭州电子科技大学管理学院2024年全国优秀大学生夏令营活动通知](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)
 
-[截止：7.19] [南京邮电大学物联网学院2024年全国优秀大学生暑期夏令营（线上）的通知](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)
+~~[截止：7.19] [南京邮电大学物联网学院2024年全国优秀大学生暑期夏令营（线上）的通知](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)~~
 
 ~~[截止：7.18] [中国矿业大学（北京）2024年矿物加工工程系优秀本科生夏令营活动通知](https://scee.cumtb.edu.cn/info/1083/3581.htm)~~
 
