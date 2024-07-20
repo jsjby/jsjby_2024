@@ -58,6 +58,8 @@
 
 [截止：暂无] [北京交通大学2024年全国优秀大学生暑期夏令营通知](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
+[截止：暂无] [北京科技大学接收2025年推荐免试硕士研究生（含直博生）预报名活动通知](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
 [截止：暂无] [西安电子科技大学2025年推荐免试研究生招生预报名通知](https://gr.xidian.edu.cn/info/1074/13515.htm)
 
 [截止：暂无] [中国海洋大学举办2024年“优秀大学生夏令营”活动的通知](https://yz.ouc.edu.cn/2024/0611/c5926a474404/page.htm)
@@ -239,11 +241,11 @@
 
 [截止：7.22] [中国林科院资源信息研究所2024年“优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
 
-[截止：7.20] [南理工智能计算成像实验室（SCILab）2025年接收推荐免试硕士（含直博生）研究生招生公告](https://scilaboratory.com/h-nd-655.html)
+~~[截止：7.20] [南理工智能计算成像实验室（SCILab）2025年接收推荐免试硕士（含直博生）研究生招生公告](https://scilaboratory.com/h-nd-655.html)~~
 
-[截止：7.20] [苏州未来科学与工程学院2024年“全国优秀本科生暑期夏令营”招生简章](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)
+~~[截止：7.20] [苏州大学未来科学与工程学院2024年“全国优秀本科生暑期夏令营”招生简章](https://mp.weixin.qq.com/s/QCPPs6NOlo9IUon4IJA__w)~~
 
-[截止：7.20] [杭州电子科技大学管理学院2024年全国优秀大学生夏令营活动通知](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)
+~~[截止：7.20] [杭州电子科技大学管理学院2024年全国优秀大学生夏令营活动通知](https://management.hdu.edu.cn/2024/0705/c965a267099/page.htm)~~
 
 ~~[截止：7.19] [南京邮电大学物联网学院2024年全国优秀大学生暑期夏令营（线上）的通知](https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm)~~
 
