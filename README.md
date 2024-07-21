@@ -130,6 +130,8 @@
 
 [截止：暂无] [上海航天技术研究院硕士研究生招生简章发布](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
 
+[截止：9.23] [南京农业大学关于接收2025年推免生（含直博生）提前申请的通知](https://zsgz.njau.edu.cn/info/1007/1571.htm)
+
 [截止：9.20] [西北大学2025年接收推荐免试研究生预报名公告](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
 
 [截止：7.28] [中国电力科学研究院2024年优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
