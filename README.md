@@ -245,7 +245,7 @@
 
 [截止：7.25] [交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
 
-[截止：7.22] [中国林科院资源信息研究所2024年“优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
+~~[截止：7.22] [中国林科院资源信息研究所2024年“优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)~~
 
 ~~[截止：7.20] [南理工智能计算成像实验室（SCILab）2025年接收推荐免试硕士（含直博生）研究生招生公告](https://scilaboratory.com/h-nd-655.html)~~
 
