@@ -110,6 +110,8 @@
 
 [截止：暂无] [西北农林科技大学各学院2024年优秀大学生夏令营情况汇总](https://yz.nwsuaf.edu.cn/tzgg/a0446bcb34254005b789339f79796145.htm)
 
+[截止：暂无] [西北大学2025年接收推荐免试研究生预报名公告](https://yjs.nwu.edu.cn/info/1104/4676.htm)
+
 [截止：暂无] [哈尔滨工程大学 2024年“全国优秀大学生夏令营”的通知](https://yzb.hrbeu.edu.cn/2023/0619/c3262a326982/page.htm)
 
 [截止：暂无] [河海大学2024年全国优秀大学生夏令营活动公告（各学院（系）陆续公布）](https://gs.hhu.edu.cn/2024/0626/c17277a285515/page.htm)
@@ -129,6 +131,8 @@
 [截止：暂无] [南方科技大学2024年全国优秀大学生夏令营活动通知](https://gs.sustech.edu.cn/#/admission/detail?current_child_id=142&id=148&article_id=3220)
 
 [截止：暂无] [上海航天技术研究院硕士研究生招生简章发布](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
+
+[截止：暂无] [苏州大学关于接收2025级推荐免试研究生（含直博生）预报名的通知](https://yjs.suda.edu.cn/e6/4b/c8386a583243/page.htm)
 
 [截止：9.23] [南京农业大学关于接收2025年推免生（含直博生）提前申请的通知](https://zsgz.njau.edu.cn/info/1007/1571.htm)
 
@@ -185,9 +189,15 @@
 
 [截止：N/A] [北京大学定量生物学中心2024年优秀大学生夏令营即将启动](https://cqb.pku.edu.cn/info/1064/2751.htm)
 
+[截止：N/A] [南京理工大学计算机学院2025年研究生推免预报名](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
+
+[截止：N/A] [中国科学院大学沈阳计算技术研究所 接收2025年推荐免试硕士研究生的通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=143)
+
 [截止：10.18] [中国科学院新疆理化技术研究所2025年接收推荐免试生的通知](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
 [截止：9.28] [中国科学院国家空间科学中心2025年招收推免研究生公告](https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm)
+
+[截止：9.20] [上海科技大学生命学院接收2025年入学推免生通知](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
 
 [截止：9.18] [南京航空航天大学国际前沿科学研究院2025年招收推免生预报名通知](https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm)
 
@@ -210,6 +220,8 @@
 [截止：8.12] [中国科学院沈阳自动化研究所关于举办2024年大学生暑期学校的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
 [截止：8.11] [山一大智能学院2024年研究生招生暑期夏令营报名启动](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
+
+[截止：8.11] [北京师范大学人工智能学院2024年优秀大学生夏令营（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
 
 [截止：8.11] [东南大学电子科学与工程学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
 
@@ -240,6 +252,8 @@
 [截止：7.30] [浙江农林大学数学与计算机科学学院2024年优秀大学生夏令营活动通知](https://yjszs.zafu.edu.cn/info/1022/2514.htm)
 
 [截止：7.28] [杭州电子科技大学通信工程学院2024年大学生夏令营活动通知](https://comm.hdu.edu.cn/2024/0719/c2746a267619/page.htm)
+
+[截止：7.28] [中国科学院大学“拔尖计划2.0”计算机科学与技术学科“成长伙伴”国际暑期学校学员招募](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)
 
 [截止：7.25] [浙江大学控制学院第十三届“控制之旅”学术夏令营公告](http://www.cse.zju.edu.cn/2024/0628/c39333a2940529/page.htm)
 
