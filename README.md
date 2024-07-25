@@ -233,6 +233,8 @@
 
 [截止：8.8] [东南大学信息科学与工程学院2024年全国优秀大学生夏令营活动及2025级推免生预选拔工作通知](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
 
+[截止：8.8] [哈工大苏州研究院2025年优秀研究生生源选拔暑期夏令营的通知](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
+
 [截止：8.5] [东南大学网络空间安全学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
 
 [截止：8.5] [中国科学院空间应用工程与技术中心2024年“太空应用”夏令营招募通知](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
