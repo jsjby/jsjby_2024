@@ -110,6 +110,8 @@
 
 [截止：暂无] [北京工业大学全国优秀大学生夏令营活动的通知](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)
 
+[截止：暂无] [北京联合大学接收学科教学(体育)推免硕士研究生](https://mp.weixin.qq.com/s/wd_oq2_ojsPAVqntBaDmcQ)
+
 [截止：暂无] [云南大学2024年全国优秀大学生夏令营活动的通知](http://www.grs.ynu.edu.cn/info/1008/4789.htm)
 
 [截止：暂无] [西北农林科技大学各学院2024年优秀大学生夏令营情况汇总](https://yz.nwsuaf.edu.cn/tzgg/a0446bcb34254005b789339f79796145.htm)
@@ -218,6 +220,8 @@
 [截止：9.10] [​西安电子科技大学人工智能学院2025年推荐免试研究生招生预报名的通知](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
 [截止：8.25] [交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+
+[截止：8.23] [中国科学院分子细胞科学卓越创新中心申请2025年入学推免生预报名通知](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
 
 [截止：8.20] [​天津大学智能与计算学部2025级研究生招生宣传导师团活动通知](https://cic.tju.edu.cn/info/1041/4999.htm)
 
