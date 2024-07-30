@@ -541,7 +541,7 @@
 
 ~~[截止：6.30] [北京工业大学计算机学院全国优秀大学生夏令营活动的通知](https://yanzhao.bjut.edu.cn/info/1025/15888.htm)~~
 
-~~[截止：6.30] [华北电力大学电气与电子工程学院关于举办2024年“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/432f27cc7246428387d6078081e03515.htm)
+~~[截止：6.30] [华北电力大学电气与电子工程学院关于举办2024年“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/432f27cc7246428387d6078081e03515.htm)~~
 
 ~~[截止：6.30] [海南大学生物医学工程学院2024年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/Dzj2PUzyo8aROOlIm-o6dA)~~
 
