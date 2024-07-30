@@ -2,6 +2,8 @@
 
 # [2024年计算机保研招生通知(按照学校分类版本)](https://github.com/jsjby/jsjby_schoool_2024)
 
+# [2024年计算机保研预推免通知](https://github.com/jsjby/ytm_2024)
+
 **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
 **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
