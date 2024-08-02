@@ -156,6 +156,8 @@
 
 [截止：9.5] [天津大学 “国优计划”专项研究生招生报名的通知](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
+[截止：8.16] [同济大学“国优计划”项目2024年招生实施方案](https://gs.tongji.edu.cn/info/1092/3678.htm)
+
 [截止：8.8] [中国人民解放军空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)
 
 [截止：8.7] [中国人民解放军海军工程大学2025年直招入伍研究生正式报名开始](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
@@ -249,7 +251,11 @@
 
 [截止：9.10] [​西安电子科技大学人工智能学院2025年推荐免试研究生招生预报名的通知](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
+[截止：9.5] [​天津大学智能与计算学部  “国优计划”专项研究生招生报名的通知](https://cic.tju.edu.cn/info/1041/5013.htm)
+
 [截止：9.5] [​中国科学院生物物理研究所关于招收2025年推荐免试研究生（含直博生）的通知](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
+
+[截止：9.1] [​中国科学院物理所2024年“选拔推荐免试研究生”面试安排](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
 [截止：8.30] [​北京科技大学智能科学与技术学院2025年接收推荐免试硕士研究生（含直博生）预报名的通知](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
@@ -276,6 +282,8 @@
 [截止：8.11] [北京师范大学人工智能学院2024年优秀大学生夏令营（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
 
 [截止：8.11] [东南大学电子科学与工程学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
+
+[截止：8.11] [东南大学电子学院全国优秀大学生夏令营优秀营员奖励计划](https://mp.weixin.qq.com/s/UvC7I-xx_ZqkK4CXvUUcIQ)
 
 [截止：8.11] [新乡医学院医学工程学院2024年优秀本科生科研夏令营招生简章](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)
 
