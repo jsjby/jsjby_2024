@@ -44,6 +44,8 @@
 
 [截止：暂无] [苏州大学关于接收2025级推荐免试研究生（含直博生）预报名的通知](https://yjs.suda.edu.cn/e6/4b/c8386a583243/page.htm)
 
+[截止：暂无] [东华大学2025年接收推荐免试攻读硕士研究生预申请公告](https://yjszs.dhu.edu.cn/2024/0807/c7127a349630/page.htm)
+
 [截止：9.23] [南京农业大学关于接收2025年推免生（含直博生）提前申请的通知](https://zsgz.njau.edu.cn/info/1007/1571.htm)
 
 [截止：9.20] [西北大学2025年接收推荐免试研究生预报名公告](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
@@ -166,7 +168,7 @@
 
 [截止：8.8] [中国人民解放军空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)
 
-[截止：8.7] [中国人民解放军海军工程大学2025年直招入伍研究生正式报名开始](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+~~[截止：8.7] [中国人民解放军海军工程大学2025年直招入伍研究生正式报名开始](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)~~
 
 ~~[截止：7.28] [中国电力科学研究院2024年优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)~~
 
@@ -261,6 +263,8 @@
 
 [截止：9.10] [​西安电子科技大学人工智能学院2025年推荐免试研究生招生预报名的通知](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
+[截止：9.10] [浙江大学​信电学院关于接收2025级外校、本校外院推荐免试研究生的说明](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
+
 [截止：9.9] [​上海科技大学信息科学与技术学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
 
 [截止：9.5] [​天津大学智能与计算学部  “国优计划”专项研究生招生报名的通知](https://cic.tju.edu.cn/info/1041/5013.htm)
@@ -309,7 +313,7 @@
 
 [截止：8.8] [哈工大苏州研究院2025年优秀研究生生源选拔暑期夏令营的通知](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
-[截止：8.7] [中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+~~[截止：8.7] [中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)~~
 
 ~~[截止：8.6] [哈工大郑州研究院2024年暑期夏令营的通知](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
 
