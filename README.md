@@ -189,6 +189,8 @@
 
 [截止：N/A] [中国科学院软件所2025年接收推免生预报名公告](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
 
+[截止：N/A] [中国科学院空天信息创新研究院预推免报名](https://mp.weixin.qq.com/s/rIplyOL-qVYyMMA1RptZ7Q)
+
 [截止：N/A] [哈尔滨工业大学电气工程及自动化学院2025年推免生（含直博生）接收工作细则](https://hitee.hit.edu.cn/2024/0801/c17101a349641/page.htm)
 
 [截止：N/A] [哈尔滨工业大学 仪器学院2025年推免生（含直博生）接收工作细则](http://ise.hit.edu.cn/2024/0731/c16271a349625/page.htm)
