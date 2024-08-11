@@ -241,6 +241,8 @@
 
 [截止：10.18] [中国科学院新疆理化技术研究所2025年接收推荐免试生的通知](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
+[截止：10.15] [中国科学院新疆理化技术研究所2025年接收推荐免试生的通知](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
+
 [截止：9.28] [中国科学院国家空间科学中心2025年招收推免研究生公告](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
 [截止：9.25] [西安电子科技大学网络与信息安全学院关于2025年推荐免试研究生招生预报名的通知](https://ce.xidian.edu.cn/info/1324/9854.htm)
@@ -248,6 +250,8 @@
 [截止：9.25] [西安电子科技大学生命科学技术学院2025年推荐免试硕士研究生招生预报名通知](https://life.xidian.edu.cn/info/1048/6911.htm)
 
 [截止：9.25] [中国人民解放军信息工程大学接收2025届地方院校应届本科毕业生推荐免试攻读硕士研究生的通知](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
+
+[截止：9.22] [西安电子科技大学卓越工程师学院长三角基地2025年推荐免试硕士研究生招生预报名通知](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)
 
 [截止：9.20] [上海科技大学生命学院接收2025年入学推免生通知](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
 
@@ -271,7 +275,13 @@
 
 [截止：9.10] [浙江大学​信电学院关于接收2025级外校、本校外院推荐免试研究生的说明](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
+[截止：9.10] [浙江大学伊利诺伊大学厄巴纳香槟校区联合学院关于2025年接收推荐免试研究生工作的通知](https://zjui.intl.zju.edu.cn/node/2660)
+
 [截止：9.9] [​上海科技大学信息科学与技术学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
+
+[截止：9.9] [​浙江大学海洋学院关于接收2025年推荐免试研究生工作的通知](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
+
+[截止：9.6] [​浙江大学计算机学院关于接收2025级推荐免试研究生工作安排的通知](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)
 
 [截止：9.5] [​天津大学智能与计算学部  “国优计划”专项研究生招生报名的通知](https://cic.tju.edu.cn/info/1041/5013.htm)
 
@@ -309,15 +319,15 @@
 
 [截止：8.12] [中国科学院沈阳自动化研究所关于举办2024年大学生暑期学校的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
-[截止：8.11] [山一大智能学院2024年研究生招生暑期夏令营报名启动](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
+~~[截止：8.11] [山一大智能学院2024年研究生招生暑期夏令营报名启动](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)~~
 
-[截止：8.11] [北京师范大学人工智能学院2024年优秀大学生夏令营（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+~~[截止：8.11] [北京师范大学人工智能学院2024年优秀大学生夏令营（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
-[截止：8.11] [东南大学电子科学与工程学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
+~~[截止：8.11] [东南大学电子科学与工程学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)~~
 
-[截止：8.11] [东南大学电子学院全国优秀大学生夏令营优秀营员奖励计划](https://mp.weixin.qq.com/s/UvC7I-xx_ZqkK4CXvUUcIQ)
+~~[截止：8.11] [东南大学电子学院全国优秀大学生夏令营优秀营员奖励计划](https://mp.weixin.qq.com/s/UvC7I-xx_ZqkK4CXvUUcIQ)~~
 
-[截止：8.11] [新乡医学院医学工程学院2024年优秀本科生科研夏令营招生简章](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)
+~~[截止：8.11] [新乡医学院医学工程学院2024年优秀本科生科研夏令营招生简章](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)~~
 
 ~~[截止：8.8] [东南大学信息科学与工程学院2024年全国优秀大学生夏令营活动及2025级推免生预选拔工作通知](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
 
