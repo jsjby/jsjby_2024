@@ -28,6 +28,8 @@
 
 [截止：暂无] [哈尔滨工业大学（威海）关于接收 2025年推免生（含直博生）工作的通知](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
+[截止：暂无] [哈尔滨工业大学关于接收2025年推免生（含直博生）工作的通知](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=9583acaddb384fc4b31eced3a39df7be&xxlm=04)
+
 [截止：暂无] [国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
 [截止：暂无] [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
@@ -162,11 +164,13 @@
 
 [截止：暂无] [上海航天技术研究院硕士研究生招生简章发布](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
 
+[截止：9.19] [暨南大学2025年接收全国高校优秀应届本科推免生报名公告](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
+
 [截止：9.5] [天津大学 “国优计划”专项研究生招生报名的通知](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
 [截止：8.16] [同济大学“国优计划”项目2024年招生实施方案](https://gs.tongji.edu.cn/info/1092/3678.htm)
 
-[截止：8.8] [中国人民解放军空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)
+~~[截止：8.8] [中国人民解放军空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)~~
 
 ~~[截止：8.7] [中国人民解放军海军工程大学2025年直招入伍研究生正式报名开始](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)~~
 
@@ -185,7 +189,11 @@
 
 [截止：N/A] [哈尔滨工业大学（威海） 计算机科学与技术学院2025年推免生接收工作细则](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
+[截止：N/A] [哈尔滨工业大学（威海）汽车工程学院2025年推免生接收工作细则](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
+
 [截止：N/A] [哈尔滨工业大学（威海） 新能源学院2025年推免生接收工作细则](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
+
+[截止：N/A] [哈尔滨工业大学材料科学与工程学院 2025年推免生（含直博生）接收工作细则](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
 [截止：N/A] [中国科学院软件所2025年接收推免生预报名公告](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
 
@@ -273,6 +281,10 @@
 
 [截止：9.10] [浙江大学​信电学院关于接收2025级外校、本校外院推荐免试研究生的说明](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
+[截止：9.10] [浙江大学数据科学研究中心2025年全日制专业学位推荐免试研究生招生通知](http://cds.zju.edu.cn/a/zsxx/3498.html)
+
+[截止：9.10] [浙江大学软件学院2025年全日制推荐免试研究生招生简章](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
+
 [截止：9.10] [浙江大学伊利诺伊大学厄巴纳香槟校区联合学院关于2025年接收推荐免试研究生工作的通知](https://zjui.intl.zju.edu.cn/node/2660)
 
 [截止：9.9] [​上海科技大学信息科学与技术学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
@@ -292,6 +304,8 @@
 [截止：9.1] [​上海科技大学生物医学工程学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/VXEDVffNuJ35tzpaYm7yVw)
 
 [截止：8.30] [​北京科技大学智能科学与技术学院2025年接收推荐免试硕士研究生（含直博生）预报名的通知](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+
+[截止：8.30] [​北京科技大学计算机与通信工程学院2025年接收推荐免试硕士研究生（含直博生）预报名的通知](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
 
 [截止：8.30] [​天津大学卓越工程师招生导师团报名须知](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
@@ -315,7 +329,7 @@
 
 [截止：8.14] [北京航空航天大学无人系统研究院 招收2025年研究生优秀大学生暑期夏令营通知](https://wrj.buaa.edu.cn/info/1008/2226.htm)
 
-[截止：8.12] [中国科学院沈阳自动化研究所关于举办2024年大学生暑期学校的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
+~~[截止：8.12] [中国科学院沈阳自动化研究所关于举办2024年大学生暑期学校的通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)~~
 
 ~~[截止：8.11] [山一大智能学院2024年研究生招生暑期夏令营报名启动](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)~~
 
