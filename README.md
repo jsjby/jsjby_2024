@@ -209,6 +209,8 @@
 
 [截止：N/A] [南开大学计算机学院、网络空间安全学院2025年推荐免试研究生（含直博）](https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm)
 
+[截止：N/A] [深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
+
 [截止：N/A] [中国科学技术大学（东方理工专项）2025级本科直博招生夏令营通知](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E4%B8%93%E9%A1%B9%EF%BC%892025%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%9B%B4%E5%8D%9A)
 
 [截止：N/A] [山东大学空间科学与物理学院2024年未来研究生暑期夏令营活动](https://apd.wh.sdu.edu.cn/info/1334/16330.htm)
@@ -255,6 +257,8 @@
 
 [截止：9.30] [中国科学院上海高等研究院招收2025年推荐免试研究生公告](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
 
+[截止：9.30] [中国科学院微小卫星创新研究院招收2025年推荐免试生的通知](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
+
 [截止：9.28] [中国科学院国家空间科学中心2025年招收推免研究生公告](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
 [截止：9.25] [西安电子科技大学网络与信息安全学院关于2025年推荐免试研究生招生预报名的通知](https://ce.xidian.edu.cn/info/1324/9854.htm)
@@ -262,6 +266,8 @@
 [截止：9.25] [西安电子科技大学生命科学技术学院2025年推荐免试硕士研究生招生预报名通知](https://life.xidian.edu.cn/info/1048/6911.htm)
 
 [截止：9.25] [中国人民解放军信息工程大学接收2025届地方院校应届本科毕业生推荐免试攻读硕士研究生的通知](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
+
+[截止：9.25] [中国科学院上海微系统与信息技术研究所2025年招收推荐免试研究生公告](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)
 
 [截止：9.24] [中国科学院上海应用物理研究所2025年招收推荐免试生的通知](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 
@@ -329,13 +335,15 @@
 
 [截止：8.20] [​天津大学智能与计算学部2025级研究生招生宣传导师团活动通知](https://cic.tju.edu.cn/info/1041/4999.htm)
 
+[截止：8.18] [​天津大学科创硕士项目招生夏令营即将开启](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)
+
 [截止：8.16] [同济大学2025年“国优计划”研究生招生报名通知(推免选拔)](https://yz.tongji.edu.cn/info/1010/3518.htm)
 
 [截止：8.16] [华侨大学计算机科学与技术学院2024年暑期全国优秀大学生夏令营招生通知](https://cst.hqu.edu.cn/info/1092/10531.htm)
 
 [截止：8.16] [北京工商大学计算机与人工智能学院计算机学科2024年暑期全国优秀大学生夏令营招生通知](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
 
-[截止：8.15] [东南大学集成电路学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
+~~[截止：8.15] [东南大学集成电路学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)~~
 
 ~~[截止：8.14] [北京航空航天大学无人系统研究院 招收2025年研究生优秀大学生暑期夏令营通知](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
