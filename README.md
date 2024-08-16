@@ -18,6 +18,8 @@
 
 ## 单校夏令营、预推免链接
 
+[截止：9.2] [清华大学2025年各院系博士生招生简章（不断更新）](https://yz.tsinghua.edu.cn/info/1010/2808.htm)
+
 [截止：暂无] [天津大学2025级研究生招生推免系统开放](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
 [截止：暂无] [浙江大学关于2025年接收外校推荐免试研究生工作安排的通知](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
@@ -170,7 +172,7 @@
 
 [截止：9.5] [天津大学 “国优计划”专项研究生招生报名的通知](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
-[截止：8.16] [同济大学“国优计划”项目2024年招生实施方案](https://gs.tongji.edu.cn/info/1092/3678.htm)
+~~[截止：8.16] [同济大学“国优计划”项目2024年招生实施方案](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
 ~~[截止：8.8] [中国人民解放军空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)~~
 
@@ -317,6 +319,34 @@
 
 [截止：9.3] [​南京大学匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
 
+[截止：9.2] [​清华大学软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
+
+[截止：9.2] [​清华大学电机工程与应用电子技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
+
+[截止：9.2] [​清华大学电子工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
+
+[截止：9.2] [​清华大学法学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/62c89c2a-27d1-4129-bb9d-aadaa3ee2ecb?yxsdm=066)
+
+[截止：9.2] [​清华大学工业工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+
+[截止：9.2] [​清华大学航天航空学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e15a9be3-6a1c-4fef-957e-073f2e83e04c?yxsdm=031)
+
+[截止：9.2] [​清华大学交叉信息研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)
+
+[截止：9.2] [​清华大学人工智能学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)
+
+[截止：9.2] [​清华大学生物医学工程学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b775e94f-d2d2-4a61-8ebb-60437efe9fe9?yxsdm=502)
+
+[截止：9.2] [​清华大学统计与数据科学系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)
+
+[截止：9.2] [​清华大学网络科学与网络空间研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)
+
+[截止：9.2] [​清华大学生命科学学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/97f137dd-7a12-4184-bd8f-e4dcf8864af1?yxsdm=045)
+
+[截止：9.2] [​清华大学环境学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ab25be03-bffa-4c0b-9603-7c3d7311b953?yxsdm=005)
+
+[截止：9.2] [​清华大学深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+
 [截止：9.1] [​中国科学院物理所2024年“选拔推荐免试研究生”面试安排](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
 [截止：9.1] [​上海科技大学生物医学工程学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/VXEDVffNuJ35tzpaYm7yVw)
@@ -339,11 +369,11 @@
 
 [截止：8.18] [​天津大学科创硕士项目招生夏令营即将开启](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)
 
-[截止：8.16] [同济大学2025年“国优计划”研究生招生报名通知(推免选拔)](https://yz.tongji.edu.cn/info/1010/3518.htm)
+~~[截止：8.16] [同济大学2025年“国优计划”研究生招生报名通知(推免选拔)](https://yz.tongji.edu.cn/info/1010/3518.htm)~~
 
-[截止：8.16] [华侨大学计算机科学与技术学院2024年暑期全国优秀大学生夏令营招生通知](https://cst.hqu.edu.cn/info/1092/10531.htm)
+~~[截止：8.16] [华侨大学计算机科学与技术学院2024年暑期全国优秀大学生夏令营招生通知](https://cst.hqu.edu.cn/info/1092/10531.htm)~~
 
-[截止：8.16] [北京工商大学计算机与人工智能学院计算机学科2024年暑期全国优秀大学生夏令营招生通知](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
+~~[截止：8.16] [北京工商大学计算机与人工智能学院计算机学科2024年暑期全国优秀大学生夏令营招生通知](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)~~
 
 ~~[截止：8.15] [东南大学集成电路学院2024年全国优秀大学生夏令营活动及推免预选拔工作通知](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)~~
 
