@@ -199,6 +199,8 @@
 
 [截止：N/A] [哈尔滨工业大学材料科学与工程学院 2025年推免生（含直博生）接收工作细则](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
+[截止：N/A] [哈尔滨工业大学（深圳）空间科学与应用技术研究院2025年推免生（含直博生）接收工作细则](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
+
 [截止：N/A] [哈尔滨工业大学交通科学与工程学院2025年推免生（含直博生）接收工作细则](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
 
 [截止：N/A] [中国科学院软件所2025年接收推免生预报名公告](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
@@ -349,6 +351,8 @@
 
 [截止：9.2] [​清华大学车辆与运载学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8cc82ff0-1f7f-4642-a216-590ddccb5948?yxsdm=015)
 
+[截止：9.2] [​清华大学集成电路学院集成电路创新博士班2025年招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)
+
 [截止：9.2] [​清华大学深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
 [截止：9.1] [​中国科学院物理所2024年“选拔推荐免试研究生”面试安排](https://edu.iphy.ac.cn/moredetail.php?id=44367)
@@ -371,7 +375,7 @@
 
 [截止：8.20] [​天津大学智能与计算学部2025级研究生招生宣传导师团活动通知](https://cic.tju.edu.cn/info/1041/4999.htm)
 
-[截止：8.18] [​天津大学科创硕士项目招生夏令营即将开启](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)
+~~[截止：8.18] [​天津大学科创硕士项目招生夏令营即将开启](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)~~
 
 ~~[截止：8.16] [同济大学2025年“国优计划”研究生招生报名通知(推免选拔)](https://yz.tongji.edu.cn/info/1010/3518.htm)~~
 
