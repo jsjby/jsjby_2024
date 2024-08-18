@@ -309,6 +309,8 @@
 
 [截止：9.9] [​浙江大学海洋学院关于接收2025年推荐免试研究生工作的通知](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
 
+[截止：9.9] [​哈尔滨工业大学（深圳） 计算机科学与技术学院2025年推免生（含直博生）接收工作细则](http://cs.hitsz.edu.cn/info/1029/7452.htm)
+
 [截止：9.6] [​浙江大学计算机学院关于接收2025级推荐免试研究生工作安排的通知](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)
 
 [截止：9.5] [​天津大学智能与计算学部  “国优计划”专项研究生招生报名的通知](https://cic.tju.edu.cn/info/1041/5013.htm)
@@ -344,6 +346,8 @@
 [截止：9.2] [​清华大学生命科学学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/97f137dd-7a12-4184-bd8f-e4dcf8864af1?yxsdm=045)
 
 [截止：9.2] [​清华大学环境学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ab25be03-bffa-4c0b-9603-7c3d7311b953?yxsdm=005)
+
+[截止：9.2] [​清华大学车辆与运载学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8cc82ff0-1f7f-4642-a216-590ddccb5948?yxsdm=015)
 
 [截止：9.2] [​清华大学深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
