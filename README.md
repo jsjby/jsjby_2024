@@ -191,6 +191,8 @@
 
 ## 夏令营 预推免链接
 
+[截止：N/A] [华南理工大学关于接收2025年“工程硕博士培养改革专项”推免生报名的通知](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
+
 [截止：N/A] [哈尔滨工业大学（威海） 计算机科学与技术学院2025年推免生接收工作细则](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
 [截止：N/A] [哈尔滨工业大学（威海）汽车工程学院2025年推免生接收工作细则](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
@@ -214,6 +216,8 @@
 [截止：N/A] [南开大学计算机学院、网络空间安全学院2025年推荐免试研究生（含直博）](https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm)
 
 [截止：N/A] [深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
+
+[截止：N/A] [杭州师范大学关于接收2025年全日制硕士推免生工作的通知](https://yjs.hznu.edu.cn/c/2024-08-19/2989525.shtml)
 
 [截止：N/A] [中国科学技术大学（东方理工专项）2025级本科直博招生夏令营通知](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E4%B8%93%E9%A1%B9%EF%BC%892025%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%9B%B4%E5%8D%9A)
 
@@ -305,7 +309,13 @@
 
 [截止：9.10] [浙江大学软件学院2025年全日制推荐免试研究生招生简章](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
 
+[截止：9.10] [浙江大学生物医学工程与仪器科学学院2025年接收外校免试研究生申请通知](http://www.cbeis.zju.edu.cn/2024/0819/c63837a2953766/page.htm)
+
 [截止：9.10] [浙江大学伊利诺伊大学厄巴纳香槟校区联合学院关于2025年接收推荐免试研究生工作的通知](https://zjui.intl.zju.edu.cn/node/2660)
+
+[截止：9.10] [南京理工大学网络空间安全学院2025年推免生招生预选拔活动报名须知](https://scs.njust.edu.cn/28/b4/c15612a338100/page.htm)
+
+[截止：9.10] [中国科学院计算机网络信息中心2025年推荐免试生（含直博生）招生简章](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)
 
 [截止：9.9] [​上海科技大学信息科学与技术学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
 
@@ -328,6 +338,8 @@
 [截止：9.2] [​清华大学电机工程与应用电子技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
 [截止：9.2] [​清华大学电子工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
+
+[截止：9.2] [​清华大学高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)
 
 [截止：9.2] [​清华大学法学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/62c89c2a-27d1-4129-bb9d-aadaa3ee2ecb?yxsdm=066)
 
