@@ -34,6 +34,8 @@
 
 [截止：暂无] [国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
+[截止：暂无] [华南理工大学2025年接收推荐免试研究生工作办法](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
+
 [截止：暂无] [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
 
 [截止：暂无] [东南大学2024年“全国优秀大学生夏令营”招生项目报名通知](https://yzb.seu.edu.cn/2024/0613/c6676a493845/pagem.htm)
@@ -205,6 +207,8 @@
 
 [截止：N/A] [哈尔滨工业大学交通科学与工程学院2025年推免生（含直博生）接收工作细则](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
 
+[截止：N/A] [哈尔滨工业大学（深圳）机电工程与自动化学院2025年推免生（含直博生）接收工作细则](http://smea.hitsz.edu.cn/info/1014/2531.htm)
+
 [截止：N/A] [中国科学院软件所2025年接收推免生预报名公告](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
 
 [截止：N/A] [中国科学院空天信息创新研究院预推免报名](https://mp.weixin.qq.com/s/rIplyOL-qVYyMMA1RptZ7Q)
@@ -216,6 +220,8 @@
 [截止：N/A] [南开大学计算机学院、网络空间安全学院2025年推荐免试研究生（含直博）](https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm)
 
 [截止：N/A] [深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
+
+[截止：N/A] [广州国家实验室招收联合培养直接攻读博士学位研究生预报名通知](https://mp.weixin.qq.com/s/qGsHrkoL3_brCQV-oJtaJA)
 
 [截止：N/A] [杭州师范大学关于接收2025年全日制硕士推免生工作的通知](https://yjs.hznu.edu.cn/c/2024-08-19/2989525.shtml)
 
@@ -333,6 +339,8 @@
 
 [截止：9.3] [​南京大学匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
 
+[截止：9.3] [​哈尔滨工业大学（深圳）土木与环境工程学院 2025年推免生（含直博生）接收工作细则](http://sce.hitsz.edu.cn/info/1009/5770.htm)
+
 [截止：9.2] [​清华大学软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
 
 [截止：9.2] [​清华大学计算机科学与技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
@@ -377,6 +385,8 @@
 
 [截止：8.30] [​北京科技大学计算机与通信工程学院2025年接收推荐免试硕士研究生（含直博生）预报名的通知](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
 
+[截止：8.30] [​中国科学院自动化研究所2025年接收推荐免试生简章](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
+
 [截止：8.30] [​天津大学卓越工程师招生导师团报名须知](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
 [截止：8.28] [​电子科技大学电子科学与工程学院2024年 “优秀本科生选拔计划”](https://www.ese.uestc.edu.cn/info/5085/21377.htm)
@@ -387,7 +397,7 @@
 
 [截止：8.23] [中国科学院分子细胞科学卓越创新中心申请2025年入学推免生预报名通知](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
 
-[截止：8.20] [​天津大学智能与计算学部2025级研究生招生宣传导师团活动通知](https://cic.tju.edu.cn/info/1041/4999.htm)
+~~[截止：8.20] [​天津大学智能与计算学部2025级研究生招生宣传导师团活动通知](https://cic.tju.edu.cn/info/1041/4999.htm)~~
 
 ~~[截止：8.18] [​天津大学科创硕士项目招生夏令营即将开启](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)~~
 
