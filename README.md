@@ -503,7 +503,7 @@
 
 ~~[截止：7.12] [北京科技大学计算机与通信工程学院关于举办2024年优秀大学生学术夏令营的通知](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)~~
 
-~~[截止：7.11] [四川大学医学前沿科学中心关于举办2024年全国优秀大学生暑期夏令营的通知](https://yjs.cd120.com/contents/412/4461.html)~~
+~~[截止：7.1] [四川大学医学前沿科学中心关于举办2024年全国优秀大学生暑期夏令营的通知](https://yjs.cd120.com/contents/412/4461.html)~~
 
 ~~[截止：7.11] [中国农业科学院农业信息研究所2024年优秀大学生暑期夏令营通知](https://aii.caas.cn/yjspy/zsxx/e1b4de6b05a94ec4a556b0aed0665ac3.htm)~~
 
