@@ -172,6 +172,8 @@
 
 [截止：9.19] [暨南大学2025年接收全国高校优秀应届本科推免生报名公告](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
 
+[截止：9.15] [湘潭大学2025年招收推荐免试攻读研究生（含硕士生、直博生） 简章](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
+
 [截止：9.5] [天津大学 “国优计划”专项研究生招生报名的通知](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
 ~~[截止：8.16] [同济大学“国优计划”项目2024年招生实施方案](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
@@ -347,6 +349,8 @@
 
 [截止：9.2] [​清华大学电机工程与应用电子技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
+[截止：9.2] [​清华大学求真书院增设“数学与人工智能硕士项目”并启动招生报名工作](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
+
 [截止：9.2] [​清华大学电子工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
 
 [截止：9.2] [​清华大学高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)
@@ -381,6 +385,10 @@
 
 [截止：9.1] [​上海科技大学生物医学工程学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/VXEDVffNuJ35tzpaYm7yVw)
 
+[截止：9月] [​中国航天科工三院三部2025年推免生招生正式启动](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)
+
+[截止：8.31] [​北京科技大学国家材料服役安全科学中心2025年接收推荐免试硕士研究生（含直博生）预报名的通知](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
+
 [截止：8.30] [​北京科技大学智能科学与技术学院2025年接收推荐免试硕士研究生（含直博生）预报名的通知](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
 [截止：8.30] [​北京科技大学计算机与通信工程学院2025年接收推荐免试硕士研究生（含直博生）预报名的通知](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
@@ -390,6 +398,8 @@
 [截止：8.30] [​天津大学卓越工程师招生导师团报名须知](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
 [截止：8.28] [​电子科技大学电子科学与工程学院2024年 “优秀本科生选拔计划”](https://www.ese.uestc.edu.cn/info/5085/21377.htm)
+
+[截止：8.28] [​北京科技大学顺德创新学院2025年接收推荐免试硕士研究生预报名的通知](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
 
 [截止：8.25] [交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
 
