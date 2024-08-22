@@ -22,6 +22,8 @@
 
 [截止：暂无] [天津大学2025级研究生招生推免系统开放](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
+[截止：暂无] [山东大学2025年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
+
 [截止：暂无] [浙江大学关于2025年接收外校推荐免试研究生工作安排的通知](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
 
 [截止：暂无] [南京大学2025年接收推荐免试研究生预报名通知](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
@@ -53,6 +55,10 @@
 [截止：暂无] [深圳大学2025年接收推荐免试攻读研究生章程（含直博生）](https://yz.szu.edu.cn/info/1041/12989.htm)
 
 [截止：暂无] [东华大学2025年接收推荐免试攻读硕士研究生预申请公告](https://yjszs.dhu.edu.cn/2024/0807/c7127a349630/page.htm)
+
+[截止：暂无] [华东理工大学2025年接收外校推荐免试研究生（含直博生）预报名通知](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
+
+[截止：暂无] [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
 [截止：9.23] [南京农业大学关于接收2025年推免生（含直博生）提前申请的通知](https://zsgz.njau.edu.cn/info/1007/1571.htm)
 
@@ -346,6 +352,10 @@
 [截止：9.2] [​清华大学软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
 
 [截止：9.2] [​清华大学计算机科学与技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
+
+[截止：9.2] [​清华大学-鹏城实验室联合培养博士专项计划 2025年招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
+
+[截止：9.2] [​清华大学-南方科技大学联合培养博士专项计划 2025年招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
 
 [截止：9.2] [​清华大学电机工程与应用电子技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
