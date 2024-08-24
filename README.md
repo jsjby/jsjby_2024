@@ -399,6 +399,8 @@
 
 [截止：9.2] [​清华大学深圳国际研究生院2025年接收优秀应届本科毕业生免试攻读研究生报名通知](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
 
+[截止：9.2] [​复旦大学2025年工程硕博士培养改革专项推荐免试研究生预选拔报名通知](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)
+
 [截止：9.1] [​中国科学院物理所2024年“选拔推荐免试研究生”面试安排](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
 [截止：9.1] [​上海科技大学生物医学工程学院2025年工程博士改革专项推免直博生报名通知](https://mp.weixin.qq.com/s/VXEDVffNuJ35tzpaYm7yVw)
