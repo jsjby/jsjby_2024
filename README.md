@@ -227,6 +227,8 @@
 
 [截止：N/A] [南开大学计算机学院、网络空间安全学院2025年推荐免试研究生（含直博）](https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm)
 
+[截止：N/A] [南京理工大学计算机学院2025年研究生推免预报名](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
+
 [截止：N/A] [深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
 [截止：N/A] [广州国家实验室招收联合培养直接攻读博士学位研究生预报名通知](https://mp.weixin.qq.com/s/qGsHrkoL3_brCQV-oJtaJA)
@@ -270,8 +272,6 @@
 [截止：N/A] [香港科技大学（广州）系统枢纽博士项目夏令营报名通知](https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA)
 
 [截止：N/A] [北京大学定量生物学中心2024年优秀大学生夏令营即将启动](https://cqb.pku.edu.cn/info/1064/2751.htm)
-
-[截止：N/A] [南京理工大学计算机学院2025年研究生推免预报名](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
 
 [截止：N/A] [中国科学院大学沈阳计算技术研究所 接收2025年推荐免试硕士研究生的通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=143)
 
