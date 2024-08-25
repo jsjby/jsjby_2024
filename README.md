@@ -213,6 +213,8 @@
 
 [截止：N/A] [哈尔滨工业大学（深圳）空间科学与应用技术研究院2025年推免生（含直博生）接收工作细则](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
 
+[截止：N/A] [哈尔滨工业大学（深圳）电子与信息工程学院2025年推免生（含直博生）接收工作细则](http://eie.hitsz.edu.cn/info/1007/2631.htm)
+
 [截止：N/A] [哈尔滨工业大学交通科学与工程学院2025年推免生（含直博生）接收工作细则](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
 
 [截止：N/A] [哈尔滨工业大学（深圳）机电工程与自动化学院2025年推免生（含直博生）接收工作细则](http://smea.hitsz.edu.cn/info/1014/2531.htm)
@@ -371,6 +373,8 @@
 
 [截止：9.2] [​清华大学高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)
 
+[截止：9.2] [​ 清华大学2025年全国重点实验室工程博士研究生项目招生简章](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)
+
 [截止：9.2] [​清华大学法学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/62c89c2a-27d1-4129-bb9d-aadaa3ee2ecb?yxsdm=066)
 
 [截止：9.2] [​清华大学工业工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
@@ -425,9 +429,9 @@
 
 [截止：8.28] [​北京科技大学顺德创新学院2025年接收推荐免试硕士研究生预报名的通知](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
 
-[截止：8.25] [交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+~~[截止：8.25] [交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
-[截止：8.25] [哈尔滨工业大学计算学部关于接受2025年推免生（含直博生）预报名的通知](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
+~~[截止：8.25] [哈尔滨工业大学计算学部关于接受2025年推免生（含直博生）预报名的通知](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)~~
 
 ~~[截止：8.23] [中国科学院分子细胞科学卓越创新中心申请2025年入学推免生预报名通知](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)~~
 
