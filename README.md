@@ -60,6 +60,8 @@
 
 [截止：暂无] [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
+[截止：暂无] [杭州师范大学2025年接收推荐免试硕士研究生预报名系统开放通知](https://yjs.hznu.edu.cn/c/2024-08-25/2990202.shtml)
+
 [截止：9.23] [南京农业大学关于接收2025年推免生（含直博生）提前申请的通知](https://zsgz.njau.edu.cn/info/1007/1571.htm)
 
 [截止：9.20] [西北大学2025年接收推荐免试研究生预报名公告](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
@@ -303,6 +305,8 @@
 
 [截止：9.20] [上海科技大学信息学院接收2025年入学推免生通知](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
 
+[截止：9.19] [中央音乐学院音乐人工智能与音乐信息科技方向2025年接收优秀应届本科毕业生免试攻读研究生（含直博生）办法](https://www.ccom.edu.cn/info/10721/235011.htm)
+
 [截止：9.18] [南京航空航天大学国际前沿科学研究院2025年招收推免生预报名通知](https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm)
 
 [截止：9.16] [哈尔滨工业大学电信学院2025年推免生（含直博生）接收工作细则](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
@@ -349,6 +353,8 @@
 
 [截止：9.5] [​中国科学院生物物理研究所关于招收2025年推荐免试研究生（含直博生）的通知](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
 
+[截止：9.5] [​北京协和医学院接收2025年推荐免试研究生预报名通知](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)
+
 [截止：9.3] [​浙江大学生命科学研究院关于2025年接收推荐免试研究生的通知](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)
 
 [截止：9.3] [​南京大学匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
@@ -364,6 +370,8 @@
 [截止：9.2] [​清华大学-南方科技大学联合培养博士专项计划 2025年招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
 
 [截止：9.2] [​清华大学SIGS-IMDT2025年接收优秀应届本科毕业生免试攻读研究生报名进行中](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
+
+[截止：9.2] [​清华SIGS海洋工程研究院2025年接收优秀应届本科毕业生免试攻读研究生报名开启](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
 
 [截止：9.2] [​清华大学电机工程与应用电子技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
