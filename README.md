@@ -66,6 +66,16 @@
 
 [截止：9.20] [西北大学2025年接收推荐免试研究生预报名公告](https://mp.weixin.qq.com/s/oUzGyOcaM_pS6kz8NXuiUw)
 
+[截止：9.19] [中国海洋大学2025年接收“创新人才培养专项计划”研究生的通知](https://yz.ouc.edu.cn/2024/0827/c5926a482047/page.htm)
+
+[截止：9.19] [中国海洋大学接收2025年推荐免试研究生的通知](https://yz.ouc.edu.cn/2024/0827/c5926a482049/page.htm)
+
+[截止：9.19] [暨南大学2025年接收全国高校优秀应届本科推免生报名公告](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
+
+[截止：9.15] [湘潭大学2025年招收推荐免试攻读研究生（含硕士生、直博生） 简章](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
+
+[截止：9.5] [天津大学 “国优计划”专项研究生招生报名的通知](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
+
 [截止：暂无] [西南财经大学2025级推免生（含直博生）接收工作通知](https://yz.swufe.edu.cn/info/1101/12151.htm)
 
 [截止：暂无] [西北工业大学2024年优秀大学生暑期夏令营期待你的加入](https://yzb.nwpu.edu.cn/info/1174/9238.htm)
@@ -178,12 +188,6 @@
 
 [截止：暂无] [上海航天技术研究院硕士研究生招生简章发布](https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw)
 
-[截止：9.19] [暨南大学2025年接收全国高校优秀应届本科推免生报名公告](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
-
-[截止：9.15] [湘潭大学2025年招收推荐免试攻读研究生（含硕士生、直博生） 简章](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
-
-[截止：9.5] [天津大学 “国优计划”专项研究生招生报名的通知](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
-
 ~~[截止：8.16] [同济大学“国优计划”项目2024年招生实施方案](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
 ~~[截止：8.8] [中国人民解放军空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)~~
@@ -210,6 +214,8 @@
 [截止：N/A] [哈尔滨工业大学（威海）汽车工程学院2025年推免生接收工作细则](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
 
 [截止：N/A] [哈尔滨工业大学（威海） 新能源学院2025年推免生接收工作细则](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
+
+[截止：N/A] [哈尔滨工业大学（威海） 材料科学与工程学院2025年推免生接收工作细则](http://mse.hitwh.edu.cn/2024/0825/c5008a186477/page.htm)
 
 [截止：N/A] [哈尔滨工业大学材料科学与工程学院 2025年推免生（含直博生）接收工作细则](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
@@ -374,6 +380,8 @@
 [截止：9.2] [​清华SIGS海洋工程研究院2025年接收优秀应届本科毕业生免试攻读研究生报名开启](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
 
 [截止：9.2] [​清华大学电机工程与应用电子技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
+
+[截止：9.2] [​清华大学天基网络与通信全国重点实验室招生](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)
 
 [截止：9.2] [​清华大学求真书院增设“数学与人工智能硕士项目”并启动招生报名工作](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
 
