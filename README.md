@@ -1537,7 +1537,7 @@
 
 ~~[截止：5.24] [南京大学2024年软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)~~
 
-~~[截止：5.24] [清华大学计算机科学与技术系2024年“全国优秀大学生夏令营”预通知](https://www.cs.tsinghua.edu.cn/info/1087/6089.htm)~~
+~~[截止：5.24] [清华大学计算机科学与技术系2024年“全国优秀大学生夏令营”预通知](https://www.cs.tsinghua.edu.cn/info/1087/6095.htm)~~
 
 ~~[截止：5.22] [清华大学网络研究院2024年全国优秀大学生夏令营预通知](https://mp.weixin.qq.com/s/2t-2sMpMVCKzTmRNQIMNIA)~~
 
