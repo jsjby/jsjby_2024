@@ -18,6 +18,8 @@
 
 ## 单校夏令营、预推免链接
 
+[截止：暂无] [复旦大学2025年推免生招生预选拔活动报名须知及各院系预选拔工作通知（持续更新）](https://gsao.fudan.edu.cn/8a/a3/c15157a690851/page.htm)
+
 [截止：暂无] [天津大学2025级研究生招生推免系统开放](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
 [截止：暂无] [山东大学2025年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
@@ -59,6 +61,10 @@
 [截止：暂无] [华东理工大学2025年接收外校推荐免试研究生（含直博生）预报名通知](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
 
 [截止：暂无] [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
+
+[截止：暂无] [西北政法大学2025年接收推免生预报名通知](https://mp.weixin.qq.com/s/emMysciBii8ouW7Vvs-HfA)
+
+[截止：暂无] [南京师范大学2025年推免生接收预报名的通知](https://yz.njnu.edu.cn/homepage_display.jsp?wid=AC3D9226AD9F3C16E04077CAA468131D&wid2=210C30F638E99776E06002DF3E091ADA)
 
 [截止：暂无] [杭州师范大学2025年接收推荐免试硕士研究生预报名系统开放通知](https://yjs.hznu.edu.cn/c/2024-08-25/2990202.shtml)
 
@@ -269,6 +275,8 @@
 
 [截止：N/A] [深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
+[截止：N/A] [深圳大学中国经济特区研究中心2025年硕招推免生预报名](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=291)
+
 [截止：N/A] [广州国家实验室招收联合培养直接攻读博士学位研究生预报名通知](https://mp.weixin.qq.com/s/qGsHrkoL3_brCQV-oJtaJA)
 
 [截止：N/A] [杭州师范大学关于接收2025年全日制硕士推免生工作的通知](https://yjs.hznu.edu.cn/c/2024-08-19/2989525.shtml)
@@ -357,6 +365,8 @@
 
 [截止：9.18] [南京航空航天大学国际前沿科学研究院2025年招收推免生预报名通知](https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm)
 
+[截止：9.18] [中国科学技术大学—北京通用人工智能研究院 2025年联合培养博士生专项计划（“通计划”）招生简章](https://yz.ustc.edu.cn/article/2735/202?num=-1)
+
 [截止：9.18] [山东大学软件学院2025年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.sc.sdu.edu.cn/info/1019/4823.htm)
 
 [截止：9.18] [山东大学数据科学研究院2025年接收推荐免试硕士研究生预报名通知](http://dsi.sdu.edu.cn/info/1157/3853.htm)
@@ -383,6 +393,12 @@
 
 [截止：9.15] [湘潭大学计算机学院2025年招收推荐免试攻读硕士研究生工作方案](https://jwxy.xtu.edu.cn/info/1023/3426.htm)
 
+[截止：9.15] [复旦大学大数据学院 2025 年推免生招生预选拔工作通知](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)
+
+[截止：9.15] [复旦大学人类表型组研究院2025年推免生招生预选拔工作通知](https://hupi.fudan.edu.cn/info/1064/3756.htm)
+
+[截止：9.15] [复旦大学代谢与整合生物学研究院2025年推免生招生预选拔通知](https://mp.weixin.qq.com/s/Kb4tFZcT9XnreE6Bzd3Hfwm)
+
 [截止：9.14] [天津大学医学院2025级硕士研究生普通推免报名通知](https://mctu.tju.edu.cn/info/1061/3511.htm)
 
 [截止：9.14] [山东大学信息学院2025年接收推荐免试硕士研究生预报名通知](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
@@ -391,9 +407,17 @@
 
 [截止：9.13] [中国科学技术大学2025年工程硕博士培养改革专项推免生预选拔招生简章](https://yz.ustc.edu.cn/article/2734/182?num=-1)
 
+[截止：9.13] [复旦大学计算机科学技术学院2025年推免生招生预选拔工作通知](https://cs.fudan.edu.cn/8a/d6/c24277a690902/page.htm)
+
 [截止：9.13] [中国科学院遗传发育所接收2025年推荐免试研究生（含直博生）报名通知](https://genetics.cas.cn/edu/zsxx/xlytms/202409/t20240902_7331882.html)
 
+[截止：9.12] [天津大学新媒体与传播学院招收新闻传播学、新闻与传播和电子信息（新媒体方向）研究生](https://mp.weixin.qq.com/s/i7x_ETpQ4jaQlxP8Djq12A)
+
 [截止：9.11（考试前一周）] [苏州大学计算机科学和技术学院（软件学院）2025年推荐免试研究生（含直博生）预选拔通知](https://scst.suda.edu.cn/d4/c2/c29555a578754/page.htm)
+
+[截止：9.11] [中国科学院数学与系统科学研究院2025年推荐免试生的通知](http://admission.amss.ac.cn/zsxm/9ytm/202409/t20240902_800026.html)
+
+[截止：9.10] [​中南大学计算机学院预推免考核工作的通知](https://cse.csu.edu.cn/info/1040/9738.htm)
 
 [截止：9.10] [​浙江大学工程师学院2025年全日制专业学位研究生推荐免试招生通知（含浙大校内）](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
 
@@ -453,13 +477,13 @@
 
 [截止：9.4] [​山东大学2024年“国优计划”遴选通知](https://www.cie.sdu.edu.cn/info/1033/4876.htm)
 
-[截止：9.3] [​浙江大学生命科学研究院关于2025年接收推荐免试研究生的通知](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)
+~~[截止：9.3] [​浙江大学生命科学研究院关于2025年接收推荐免试研究生的通知](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)~~
 
-[截止：9.3] [​南京大学匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
+~~[截止：9.3] [​南京大学匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)~~
 
-[截止：9.3] [​哈尔滨工业大学（深圳）土木与环境工程学院 2025年推免生（含直博生）接收工作细则](http://sce.hitsz.edu.cn/info/1009/5770.htm)
+~~[截止：9.3] [​哈尔滨工业大学（深圳）土木与环境工程学院 2025年推免生（含直博生）接收工作细则](http://sce.hitsz.edu.cn/info/1009/5770.htm)~~
 
-[截止：9.3] [​北京科技大学2025年“校企联合培养工程硕博士”专项延长报名时间的通知](https://yzxc.ustb.edu.cn/xlytm/hdap/9e885368e4da4dc2bcf31bf4d5f3d80c.htm)
+~~[截止：9.3] [​北京科技大学2025年“校企联合培养工程硕博士”专项延长报名时间的通知](https://yzxc.ustb.edu.cn/xlytm/hdap/9e885368e4da4dc2bcf31bf4d5f3d80c.htm)~~
 
 ~~[截止：9.2] [​清华大学软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)~~
 
