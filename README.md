@@ -493,7 +493,7 @@
 
 ~~[截止：9.2] [​清华大学-南方科技大学联合培养博士专项计划 2025年招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)~~
 
-~~[截止：9.2] [​清华大学SIGS-IMDT2025年接收优秀应届本科毕业生免试攻读研究生报名进行中](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
+~~[截止：9.2] [​清华大学SIGS-IMDT2025年接收优秀应届本科毕业生免试攻读研究生报名进行中](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)~~
 
 ~~[截止：9.2] [​清华SIGS海洋工程研究院2025年接收优秀应届本科毕业生免试攻读研究生报名开启](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)~~
 
