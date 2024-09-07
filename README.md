@@ -70,6 +70,8 @@
 
 [截止：暂无] [华东理工大学2025年接收外校推荐免试研究生（含直博生）预报名通知](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
 
+[截止：暂无] [江西农业大学2025年接收推荐免试攻读硕士学位研究生工作办法](https://yanjiusheng.jxau.edu.cn/19/48/c981a137544/page.htm)
+
 [截止：暂无] [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
 [截止：暂无] [西北政法大学2025年接收推免生预报名通知](https://mp.weixin.qq.com/s/emMysciBii8ouW7Vvs-HfA)
@@ -87,6 +89,8 @@
 [截止：暂无] [广东工业大学2025年招收推免生预公告](https://yzw.gdut.edu.cn/info/1135/7656.htm)
 
 [截止：暂无] [陕西科技大学2025年推荐免试研究生（含直博生）接收通知](https://yjszs.sust.edu.cn/info/1014/2959.htm)
+
+[截止：10.10] [海军工程大学2025年攻读博士学位研究生招生简章](https://mp.weixin.qq.com/s/r3QyLDgJ3GTx_9Vvi4FUIA)
 
 [截止：10.7] [同济大学2025年“国优计划”推荐免试研究生预报名通知](https://yz.tongji.edu.cn/info/1010/3640.htm)
 
@@ -123,6 +127,8 @@
 [截止：9.19] [暨南大学2025年接收全国高校优秀应届本科推免生报名公告](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
 
 [截止：9.19] [暨南大学深圳校区2025年接收全国高校优秀应届本科推免生报名公告](https://sz.jnu.edu.cn/2024/0828/c10943a819711/page.htm)
+
+[截止：9.18] [合肥工业大学2025年接收推荐免试研究生（含直博生）预报名通知](https://yjszs.hfut.edu.cn/2024/0907/c13524a306283/page.htm)
 
 [截止：9.17] [华中农业大学关于接收2025年推荐免试研究生（含直博生）预报名的通知](https://yjs.hzau.edu.cn/info/1189/10191.htm)
 
@@ -269,6 +275,8 @@
 
 [截止：N/A] [华中科技大学计算机科学与技术学院2025年接收推免研究生预报名通知](https://cs.hust.edu.cn/info/1439/4268.htm)
 
+[截止：N/A] [天津大学海洋科学与技术学院招收2025级推荐免试攻读硕士学位研究生及直接攻读博士学位研究生章程](https://marine.tju.edu.cn/info/1036/3642.htm)
+
 [截止：N/A] [武汉大学遥感学院2025届推荐免试研究生工作的通知](https://rsgis.whu.edu.cn/info/1213/98250.htm)
 
 [截止：N/A] [华南理工大学关于接收2025年“工程硕博士培养改革专项”推免生报名的通知](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
@@ -318,6 +326,8 @@
 [截止：N/A] [深圳大学大湾区国际创新学院2025年研究生推免招生工作开始](https://mp.weixin.qq.com/s/yszOexUhrUBlG95O9vQuRw?)
 
 [截止：N/A] [深圳大学中国经济特区研究中心2025年硕招推免生预报名](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=291)
+
+[截止：N/A] [深圳大学国际海事智慧管理交叉育人平台2025年硕招推免生预报名](https://mp.weixin.qq.com/s/aBHZWtfcjTU1TJQh62GMow)
 
 [截止：N/A] [广州国家实验室招收联合培养直接攻读博士学位研究生预报名通知](https://mp.weixin.qq.com/s/qGsHrkoL3_brCQV-oJtaJA)
 
@@ -377,9 +387,15 @@
 
 [截止：9.28] [南方科技大学生物医学工程系接收2025年推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
 
+[截止：9.26] [兰州大学关于2025年“国优计划”专项接收推荐免试硕士研究生报名的通知](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html)
+
 [截止：9.26] [同济大学计算机科学与技术学院（软件学院）2025年接收推荐免试研究生章程暨选拔复试办法（第二批）](https://sse.tongji.edu.cn/info/1132/5276.htm)
 
+[截止：9.26] [同济大学工程硕博士专项2025年接收推荐免试研究生(含直接攻博)预报名通知](https://yz.tongji.edu.cn/info/1010/3653.htm)
+
 [截止：9.25前] [中国科学技术大学自动化系外校推免生预面试公告](https://ce.xidian.edu.cn/info/1324/9854.htm)
+
+[截止：9.25] [同济大学测绘与地理信息学院2025年接收推荐免试研究生（含直接攻博）章程暨选拔复试办法](https://celiang.tongji.edu.cn/info/1205/4022.htm)
 
 [截止：9.25] [西安电子科技大学网络与信息安全学院关于2025年推荐免试研究生招生预报名的通知](https://ce.xidian.edu.cn/info/1324/9854.htm)
 
@@ -434,6 +450,8 @@
 [截止：9.18] [中南大学电子信息学院2024年预推免考核工作安排](https://ei.csu.edu.cn/info/1085/1633.htm)
 
 [截止：9.18] [同济大学设计创意学院“人工智能与数据设计”方向关于接收2025级推荐免试研究生工作安排通知](https://mp.weixin.qq.com/s/RlvqzxGgYFEWxXU483VU2Q)
+
+[截止：9.18] [华东师范大学-法国学校联合培养研究生项目招收推免生的通知](https://yjsy.ecnu.edu.cn/8e/53/c42076a626259/page.htm)
 
 [截止：9.17] [浙江大学伊利诺伊大学厄巴纳香槟校区联合学院关于2025年接收推荐免试研究生工作的通知](https://zjui.intl.zju.edu.cn/node/2660)
 
