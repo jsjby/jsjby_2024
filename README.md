@@ -260,12 +260,6 @@
 
 [截止：N/A] [哈尔滨工业大学材料科学与工程学院 2025年推免生（含直博生）接收工作细则](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
-[截止：N/A] [哈尔滨工业大学（深圳）空间科学与应用技术研究院2025年推免生（含直博生）接收工作细则](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
-
-[截止：N/A] [哈尔滨工业大学（深圳）电子与信息工程学院2025年推免生（含直博生）接收工作细则](http://eie.hitsz.edu.cn/info/1007/2631.htm)
-
-[截止：N/A] [哈尔滨工业大学交通科学与工程学院2025年推免生（含直博生）接收工作细则](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
-
 [截止：N/A] [哈尔滨工业大学（深圳）机电工程与自动化学院2025年推免生（含直博生）接收工作细则](http://smea.hitsz.edu.cn/info/1014/2531.htm)
 
 [截止：N/A] [中国科学院软件所2025年接收推免生预报名公告](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
@@ -730,6 +724,8 @@
 
 ~~[截止：9.6] [​哈尔滨工业大学2025年“国优计划”专项研究生预报名通知](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)~~
 
+~~[截止：9.6] [哈尔滨工业大学（深圳）电子与信息工程学院2025年推免生（含直博生）接收工作细则](http://eie.hitsz.edu.cn/info/1007/2631.htm)~~
+
 ~~[截止：9.6] [​中国科学院计算技术研究所接收2025年推荐免试研究生简章](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html)~~
 
 ~~[截止：9.5] [​天津大学智能与计算学部  “国优计划”专项研究生招生报名的通知](https://cic.tju.edu.cn/info/1041/5013.htm)~~
@@ -741,6 +737,8 @@
 ~~[截止：9.5] [​北京协和医学院接收2025年推荐免试研究生预报名通知](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)~~
 
 ~~[截止：9.4] [​山东大学2024年“国优计划”遴选通知](https://www.cie.sdu.edu.cn/info/1033/4876.htm)~~
+
+~~[截止：9.4] [哈尔滨工业大学（深圳）空间科学与应用技术研究院2025年推免生（含直博生）接收工作细则](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)~~
 
 ~~[截止：9.4] [​东北大学关于接收2025年“工程硕博士培养改革专项”推免生报名的通知](http://yz.neu.edu.cn/2024/0902/c5932a267593/page.htm)~~
 
@@ -811,6 +809,8 @@
 ~~[截止：9.2] [​复旦大学2025年工程硕博士培养改革专项推荐免试研究生预选拔报名通知](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)~~
 
 ~~[截止：9.1] [​中国科学院物理所2024年“选拔推荐免试研究生”面试安排](https://edu.iphy.ac.cn/moredetail.php?id=44367)~~
+
+~~[截止：9.1] [哈尔滨工业大学交通科学与工程学院2025年推免生（含直博生）接收工作细则](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)~~
 
 ~~[截止：9.1] [​北京科技大学国家卓越工程师学院2025年校企联合培养工程硕博士专项推免报名指南](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)~~
 
