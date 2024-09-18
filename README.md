@@ -430,8 +430,6 @@
 
 [截止：9.21] [北航计算机学院接收推荐免试攻读2025年研究生（含博士）工作方案](https://scse.buaa.edu.cn/info/1299/11380.htm)
 
-[截止：9.21] [北京理工大学医学技术学院2023年接收推荐免试攻读研究生（含本直博生）的报名通知](https://smt.bit.edu.cn/rcpy/yjszs/60ef0fee1a324c808cd28727bb914963.htm)
-
 [截止：9.20] [上海科技大学生命学院接收2025年入学推免生通知](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
 
 [截止：9.20] [上海科技大学生医工学院接收2025年入学推免生通知](https://mp.weixin.qq.com/s/yM6tDoVUyTJaMHZzyAyOKg)
