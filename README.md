@@ -412,8 +412,6 @@
 
 [截止：9.22] [西北工业大学无人系统技术研究院接收推荐免试研究生预报名的通知](https://wurenxitong.nwpu.edu.cn/info/1108/7768.htm)
 
-[截止：9.22] [国防科技大学计算机学院接收 2025 级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905)
-
 [截止：9.22] [国防科技大学气象海洋学院接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13917)
 
 [截止：9.22] [郑州大学网络空间安全学院2025年推免生预报名工作安排](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec89077fd760191cf896c0202bc)
@@ -477,6 +475,8 @@
 [截止：9.19] [湖南大学卓越工程师学院关于接收2025年工程硕博士推荐免试研究生预报名的通知](http://gra.hnu.edu.cn/info/1075/9699.htm)
 
 [截止：9.19] [西北工业大学光电与智能研究院关于接收2025年推荐免试研究生预报名的通知](https://iopen.nwpu.edu.cn/info/1028/5186.htm)
+
+[截止：9.19] [国防科技大学计算机学院接收 2025 级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905)
 
 [截止：9.19] [重庆大学自动化学院2024年 预推免暨秋令营招生简章](https://accu.cqu.edu.cn/info/1330/9285.htm)
 
