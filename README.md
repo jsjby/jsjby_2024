@@ -340,8 +340,6 @@
 
 [截止：9.26] [兰州大学关于2025年“国优计划”专项接收推荐免试硕士研究生报名的通知](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html)
 
-[截止：9.26] [同济大学计算机科学与技术学院（软件学院）2025年接收推荐免试研究生章程暨选拔复试办法（第二批）](https://sse.tongji.edu.cn/info/1132/5276.htm)
-
 [截止：9.26] [同济大学工程硕博士专项2025年接收推荐免试研究生(含直接攻博)预报名通知](https://yz.tongji.edu.cn/info/1010/3653.htm)
 
 [截止：9.25前] [中国科学技术大学自动化系外校推免生预面试公告](https://ce.xidian.edu.cn/info/1324/9854.htm)
