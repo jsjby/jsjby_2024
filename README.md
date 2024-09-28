@@ -410,13 +410,13 @@
 
 [截止：9.30] [西安电子科技大学空间科学与技术学院2025年推荐免试研究生招生预报名通知](https://sast.xidian.edu.cn/info/1014/6885.htm)
 
-[截止：9.28] [中国科学院国家空间科学中心2025年招收推免研究生公告](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
+~~[截止：9.28] [中国科学院国家空间科学中心2025年招收推免研究生公告](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)~~
 
-[截止：9.28] [南方科技大学生物医学工程系接收2025年推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
+~~[截止：9.28] [南方科技大学生物医学工程系接收2025年推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)~~
 
-[截止：9.28] [上海科技大学信息科学与技术学院2025年工程博士改革专项推免直博生第二轮报名通知](https://mp.weixin.qq.com/s/RGRN3aJJhMgyQWtleu8X6w)
+~~[截止：9.28] [上海科技大学信息科学与技术学院2025年工程博士改革专项推免直博生第二轮报名通知](https://mp.weixin.qq.com/s/RGRN3aJJhMgyQWtleu8X6w)~~
 
-[截止：9.28（暂定）] [深圳大学数学科学学院2025年硕士推免&直博生招生预报名](https://math.szu.edu.cn/info/1051/3974.htm)
+~~[截止：9.28（暂定）] [深圳大学数学科学学院2025年硕士推免&直博生招生预报名](https://math.szu.edu.cn/info/1051/3974.htm)~~
 
 ~~[截止：9.27] [哈尔滨工程大学智能科学与工程学院关于2025年接收免试攻读研究生预报名工作的通知](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)~~
 
