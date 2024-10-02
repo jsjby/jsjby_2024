@@ -404,11 +404,11 @@
 
 [截止：10.10] [大连理工大学2025年“国优计划”专项招生选拔通知](https://gs.dlut.edu.cn/info/1172/15126.htm)
 
-[截止：9.30] [中国科学院上海高等研究院招收2025年推荐免试研究生公告](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
+~~[截止：9.30] [中国科学院上海高等研究院招收2025年推荐免试研究生公告](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)~~
 
-[截止：9.30] [中国科学院微小卫星创新研究院招收2025年推荐免试生的通知](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
+~~[截止：9.30] [中国科学院微小卫星创新研究院招收2025年推荐免试生的通知](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)~~
 
-[截止：9.30] [西安电子科技大学空间科学与技术学院2025年推荐免试研究生招生预报名通知](https://sast.xidian.edu.cn/info/1014/6885.htm)
+~~[截止：9.30] [西安电子科技大学空间科学与技术学院2025年推荐免试研究生招生预报名通知](https://sast.xidian.edu.cn/info/1014/6885.htm)~~
 
 ~~[截止：9.28] [中国科学院国家空间科学中心2025年招收推免研究生公告](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)~~
 
